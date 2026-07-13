@@ -1,9 +1,8 @@
 # UHKG-Rec
 
-Prototype implementation of **UHKG-Rec**: uncertainty-aware, pattern-driven healthcare
-service recommendation over an Uncertain Healthcare Knowledge Graph (UHKG).
+Prototype implementation of **UHKG-Rec**: Enhancing Service Recommendation in Smart Healthcare Networks via Pattern-driven Probabilistic Representation Learning.
 
-Author: **H. Mezni**
+Authors: **Mouhamed Gaith Ayadi, Haithem Mezni, Shiyam Alalmaei, Hela Elmannai**
 
 ---
 
