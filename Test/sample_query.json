@@ -1,0 +1,7 @@
+{
+  "symptoms": ["Fatigue", "Headache"],
+  "active_constraints": [],
+  "k": 5,
+  "theta": 0.7,
+  "variant": "UHKG-Rec"
+}

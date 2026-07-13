@@ -1,0 +1,1566 @@
+{
+  "Anemia": [
+    "ShortnessOfBreath",
+    "Dizziness_6",
+    "Numbness_7"
+  ],
+  "Anxiety": [
+    "HairLoss_5",
+    "ShortnessOfBreath_1",
+    "NightSweats_3",
+    "FrequentUrination"
+  ],
+  "IBS": [
+    "Wheezing_1",
+    "SkinRash_4",
+    "NightSweats_6",
+    "Fever_4",
+    "MuscleWeakness_1",
+    "BlurredVision"
+  ],
+  "Osteoporosis": [
+    "BlurredVision",
+    "SkinRash_4",
+    "Fever_1",
+    "BackPain_1",
+    "HighBloodSugar_3"
+  ],
+  "Bronchitis": [
+    "FrequentUrination_3",
+    "HairLoss",
+    "Diarrhea_1",
+    "DrySkin_6",
+    "Itching_3",
+    "Insomnia"
+  ],
+  "Psoriasis": [
+    "IrregularHeartbeat_2",
+    "BlurredVision_6",
+    "ChestPain_1",
+    "SwellingLegs",
+    "Anxiety_4"
+  ],
+  "Eczema": [
+    "Anxiety_3",
+    "Diarrhea_2",
+    "NightSweats_2",
+    "Wheezing_5"
+  ],
+  "Hyperthyroidism": [
+    "LowOxygenSaturation_5",
+    "SoreThroat",
+    "Cough_6"
+  ],
+  "ChronicKidneyDisease": [
+    "RunnyNose_3",
+    "Tremor",
+    "HairLoss_2",
+    "Cough_5"
+  ],
+  "Depression": [
+    "Palpitations_1",
+    "ShortnessOfBreath_3",
+    "SoreThroat_2"
+  ],
+  "GERD": [
+    "Palpitations_1",
+    "Fever_5",
+    "ShortnessOfBreath_2",
+    "Insomnia_3",
+    "Insomnia",
+    "WeightGain_6",
+    "DrySkin"
+  ],
+  "Obesity": [
+    "Bloating_4",
+    "ChestPain_5",
+    "Palpitations_4",
+    "HairLoss_5",
+    "WeightGain_4",
+    "ChestPain_1",
+    "HairLoss_2"
+  ],
+  "Gout": [
+    "Bloating_2",
+    "WeightGain_1",
+    "MuscleWeakness_4",
+    "HighBloodSugar_4",
+    "Diarrhea_1",
+    "Tremor_3"
+  ],
+  "Pneumonia": [
+    "Cough_5",
+    "WeightLoss_3",
+    "IrregularHeartbeat_2",
+    "Nausea",
+    "NightSweats_1",
+    "MuscleWeakness_6"
+  ],
+  "Insomnia": [
+    "RunnyNose_7",
+    "Nausea_6",
+    "Tremor_6",
+    "SkinRash_2",
+    "HighBloodSugar_6",
+    "Bloating_6"
+  ],
+  "Glaucoma": [
+    "Numbness_2",
+    "PoorAppetite_3",
+    "WeightLoss_5",
+    "RunnyNose_2"
+  ],
+  "Hypertension": [
+    "PoorAppetite",
+    "Bloating_5",
+    "Dizziness_6",
+    "IrregularHeartbeat",
+    "DrySkin_5",
+    "Headache_4",
+    "SoreThroat_5"
+  ],
+  "Hypothyroidism": [
+    "Palpitations_6",
+    "ChestPain_1",
+    "Anxiety",
+    "SwellingLegs_5"
+  ],
+  "HeartFailure": [
+    "Palpitations_4",
+    "Dizziness_4",
+    "Bloating_5",
+    "Fatigue_3",
+    "Constipation_5",
+    "SwellingLegs_3"
+  ],
+  "Asthma": [
+    "RunnyNose_2",
+    "Bloating_3",
+    "Dizziness_1",
+    "HairLoss_6",
+    "Insomnia_1",
+    "IrregularHeartbeat_3",
+    "Insomnia_6"
+  ],
+  "AtrialFibrillation": [
+    "WeightLoss_3",
+    "WeightLoss_1",
+    "PoorAppetite_4"
+  ],
+  "MacularDegeneration": [
+    "IrregularHeartbeat_6",
+    "SkinRash_5",
+    "Constipation",
+    "WeightGain_7",
+    "JointPain_4"
+  ],
+  "Migraine": [
+    "Wheezing_6",
+    "Insomnia_6",
+    "WeightGain_6",
+    "ChestPain_3",
+    "SwellingLegs_4",
+    "Fever_3",
+    "Headache_1"
+  ],
+  "Allergy": [
+    "Numbness",
+    "ShortnessOfBreath_2",
+    "WeightGain_1",
+    "LowOxygenSaturation_3",
+    "Dizziness_5"
+  ],
+  "RheumatoidArthritis": [
+    "BackPain_4",
+    "MuscleWeakness_6",
+    "ShortnessOfBreath_4",
+    "DrySkin_5",
+    "WeightLoss_6",
+    "JointPain_3"
+  ],
+  "Osteoarthritis": [
+    "DrySkin_4",
+    "LowOxygenSaturation_1",
+    "HighBloodSugar_2",
+    "WeightGain_4",
+    "Headache_3",
+    "BlurredVision_5",
+    "SoreThroat_2"
+  ],
+  "Sinusitis": [
+    "Insomnia_2",
+    "HairLoss",
+    "SwellingLegs_3",
+    "Dizziness_6",
+    "Insomnia_1"
+  ],
+  "Type2Diabetes": [
+    "WeightGain_3",
+    "Bloating_5",
+    "Bloating_6",
+    "PoorAppetite_6",
+    "Headache_4",
+    "IrregularHeartbeat_6",
+    "Tremor_4"
+  ],
+  "COPD": [
+    "Numbness_4",
+    "WeightLoss",
+    "PoorAppetite_3",
+    "IrregularHeartbeat_4",
+    "DrySkin_4",
+    "WeightLoss_6"
+  ],
+  "UrinaryTractInfection": [
+    "Tremor_2",
+    "Anxiety_4",
+    "IrregularHeartbeat_4"
+  ],
+  "Anemia_1": [
+    "FrequentUrination",
+    "Numbness_6",
+    "SwellingLegs_4",
+    "FrequentUrination_3",
+    "Anxiety",
+    "PoorAppetite_1",
+    "SkinRash_3"
+  ],
+  "Anxiety_1": [
+    "WeightGain_6",
+    "Constipation_6",
+    "PoorAppetite_1",
+    "Cough_6",
+    "Fatigue_4",
+    "ChestPain_5",
+    "HairLoss_4"
+  ],
+  "IBS_1": [
+    "FrequentUrination_6",
+    "Wheezing_5",
+    "HighBloodSugar"
+  ],
+  "Osteoporosis_1": [
+    "Dizziness_3",
+    "Wheezing_1",
+    "IrregularHeartbeat_4",
+    "Headache_6"
+  ],
+  "Bronchitis_1": [
+    "Diarrhea_1",
+    "WeightGain_3",
+    "Insomnia_1",
+    "FrequentUrination_6",
+    "Cough_1",
+    "RunnyNose_2"
+  ],
+  "Psoriasis_1": [
+    "Itching_3",
+    "BackPain_5",
+    "JointPain_4"
+  ],
+  "Eczema_1": [
+    "BlurredVision_2",
+    "Tremor_6",
+    "Wheezing_6",
+    "BackPain_4",
+    "HairLoss_4",
+    "Anxiety_5"
+  ],
+  "Hyperthyroidism_1": [
+    "MuscleWeakness_7",
+    "NightSweats",
+    "Dizziness_1",
+    "Numbness_7"
+  ],
+  "ChronicKidneyDisease_1": [
+    "Nausea_1",
+    "Cough_6",
+    "HighBloodSugar_3",
+    "ChestPain_4"
+  ],
+  "Depression_1": [
+    "NightSweats",
+    "Constipation",
+    "Tremor_3",
+    "IrregularHeartbeat_4",
+    "Headache_3",
+    "PoorAppetite_1"
+  ],
+  "GERD_1": [
+    "JointPain_5",
+    "FrequentUrination_2",
+    "LowOxygenSaturation_2",
+    "Fever_2",
+    "BlurredVision_1",
+    "LowOxygenSaturation_5",
+    "LowOxygenSaturation_3"
+  ],
+  "Obesity_1": [
+    "MuscleWeakness_6",
+    "FrequentUrination_3",
+    "Fever_6",
+    "PoorAppetite_4",
+    "ChestPain_2"
+  ],
+  "Gout_1": [
+    "Nausea_7",
+    "Nausea_4",
+    "SkinRash_3"
+  ],
+  "Pneumonia_1": [
+    "Anxiety_1",
+    "FrequentUrination",
+    "Bloating_4",
+    "SkinRash_6"
+  ],
+  "Insomnia_1": [
+    "BlurredVision_7",
+    "Wheezing_3",
+    "Tremor_2",
+    "Palpitations_3",
+    "JointPain_6"
+  ],
+  "Glaucoma_1": [
+    "WeightGain_5",
+    "PoorAppetite_1",
+    "Insomnia_5",
+    "WeightGain",
+    "HighBloodSugar_3",
+    "HighBloodSugar_1",
+    "WeightLoss_6"
+  ],
+  "Hypertension_1": [
+    "PoorAppetite_4",
+    "ChestPain_5",
+    "Palpitations_1",
+    "Constipation_1",
+    "Palpitations",
+    "SoreThroat"
+  ],
+  "Hypothyroidism_1": [
+    "Bloating_1",
+    "Fatigue_6",
+    "Dizziness_5",
+    "Constipation_3",
+    "WeightLoss",
+    "SkinRash_5"
+  ],
+  "HeartFailure_1": [
+    "PoorAppetite_1",
+    "DrySkin_3",
+    "PoorAppetite",
+    "ShortnessOfBreath",
+    "HairLoss_4",
+    "WeightLoss_3"
+  ],
+  "Asthma_1": [
+    "JointPain_1",
+    "FrequentUrination_3",
+    "Fever_2",
+    "FrequentUrination_1"
+  ],
+  "AtrialFibrillation_1": [
+    "Insomnia_1",
+    "BackPain",
+    "HighBloodSugar_6",
+    "Anxiety_6",
+    "Numbness_5",
+    "SoreThroat_1"
+  ],
+  "MacularDegeneration_1": [
+    "Constipation_6",
+    "Diarrhea_6",
+    "MuscleWeakness_1"
+  ],
+  "Migraine_1": [
+    "RunnyNose_4",
+    "WeightLoss_6",
+    "RunnyNose_7",
+    "BlurredVision_6",
+    "Bloating_1",
+    "Insomnia_1"
+  ],
+  "Allergy_1": [
+    "Diarrhea_5",
+    "RunnyNose_2",
+    "HairLoss_6",
+    "Fatigue",
+    "PoorAppetite_1"
+  ],
+  "RheumatoidArthritis_1": [
+    "JointPain_5",
+    "MuscleWeakness_5",
+    "DrySkin_6"
+  ],
+  "Osteoarthritis_1": [
+    "RunnyNose_3",
+    "SoreThroat_1",
+    "Constipation_4",
+    "Headache_5",
+    "Insomnia_1",
+    "Fatigue_3"
+  ],
+  "Sinusitis_1": [
+    "ChestPain_4",
+    "Constipation_4",
+    "IrregularHeartbeat",
+    "FrequentUrination_2",
+    "MuscleWeakness_2"
+  ],
+  "Type2Diabetes_1": [
+    "LowOxygenSaturation_4",
+    "Insomnia_4",
+    "WeightGain_1",
+    "HairLoss",
+    "WeightGain_2"
+  ],
+  "COPD_1": [
+    "Itching_6",
+    "Anxiety_4",
+    "Palpitations",
+    "BlurredVision_3",
+    "Insomnia_5"
+  ],
+  "UrinaryTractInfection_1": [
+    "Fever_2",
+    "JointPain_1",
+    "Bloating_5",
+    "SkinRash_3",
+    "BlurredVision_7",
+    "MuscleWeakness_5"
+  ],
+  "Anemia_2": [
+    "LowOxygenSaturation_2",
+    "SoreThroat_6",
+    "Numbness_5",
+    "SkinRash_1",
+    "WeightGain_6"
+  ],
+  "Anxiety_2": [
+    "HighBloodSugar_2",
+    "Fatigue_4",
+    "Constipation_4",
+    "IrregularHeartbeat_2",
+    "Tremor_3",
+    "WeightLoss_1",
+    "Nausea_2"
+  ],
+  "IBS_2": [
+    "SwellingLegs_4",
+    "Fever_4",
+    "Numbness_2",
+    "SkinRash_6",
+    "Fatigue",
+    "Cough_6",
+    "PoorAppetite_6"
+  ],
+  "Osteoporosis_2": [
+    "Bloating_6",
+    "Cough_2",
+    "FrequentUrination_4"
+  ],
+  "Bronchitis_2": [
+    "WeightGain_1",
+    "RunnyNose_7",
+    "WeightLoss_2",
+    "FrequentUrination",
+    "NightSweats_3"
+  ],
+  "Psoriasis_2": [
+    "Itching",
+    "Cough_4",
+    "Tremor_1",
+    "Fever_5",
+    "MuscleWeakness_4"
+  ],
+  "Eczema_2": [
+    "JointPain_1",
+    "WeightGain_1",
+    "Bloating_4",
+    "Tremor_5",
+    "Cough_4",
+    "ChestPain_1"
+  ],
+  "Hyperthyroidism_2": [
+    "HairLoss_2",
+    "WeightGain_3",
+    "Fatigue_1",
+    "WeightGain_2",
+    "IrregularHeartbeat_1",
+    "WeightGain_4"
+  ],
+  "ChronicKidneyDisease_2": [
+    "Tremor_2",
+    "Headache_6",
+    "Insomnia",
+    "JointPain_5",
+    "RunnyNose_5",
+    "Anxiety_3",
+    "Diarrhea_6"
+  ],
+  "Depression_2": [
+    "PoorAppetite_2",
+    "JointPain_2",
+    "Fatigue_1",
+    "FrequentUrination_3",
+    "HairLoss",
+    "JointPain_6"
+  ],
+  "GERD_2": [
+    "Bloating_6",
+    "Fatigue_4",
+    "Anxiety",
+    "BackPain_5"
+  ],
+  "Obesity_2": [
+    "Nausea_2",
+    "Fatigue_1",
+    "SoreThroat",
+    "Nausea_4",
+    "ShortnessOfBreath_6"
+  ],
+  "Gout_2": [
+    "DrySkin_6",
+    "FrequentUrination_1",
+    "IrregularHeartbeat_4",
+    "Anxiety_3",
+    "PoorAppetite_4",
+    "HairLoss_1",
+    "Cough"
+  ],
+  "Pneumonia_2": [
+    "BlurredVision_5",
+    "Fatigue",
+    "WeightGain_7"
+  ],
+  "Insomnia_2": [
+    "Diarrhea_5",
+    "SwellingLegs_3",
+    "Headache",
+    "Nausea_5",
+    "Fatigue",
+    "BackPain_4"
+  ],
+  "Glaucoma_2": [
+    "SwellingLegs_2",
+    "Itching_1",
+    "BackPain",
+    "NightSweats_6",
+    "NightSweats",
+    "RunnyNose_4"
+  ],
+  "Hypertension_2": [
+    "ShortnessOfBreath_4",
+    "Wheezing_3",
+    "HighBloodSugar_1"
+  ],
+  "Hypothyroidism_2": [
+    "Headache_5",
+    "Dizziness_3",
+    "RunnyNose_1",
+    "MuscleWeakness_6",
+    "BlurredVision_1",
+    "BlurredVision_6"
+  ],
+  "HeartFailure_2": [
+    "RunnyNose_6",
+    "BackPain_3",
+    "ChestPain",
+    "Nausea_1",
+    "HighBloodSugar_5"
+  ],
+  "Asthma_2": [
+    "Numbness_5",
+    "WeightLoss_5",
+    "WeightLoss",
+    "RunnyNose_2",
+    "Bloating_6"
+  ],
+  "AtrialFibrillation_2": [
+    "Cough_1",
+    "HairLoss_3",
+    "ShortnessOfBreath_3",
+    "Tremor_6",
+    "MuscleWeakness_3",
+    "Nausea_4"
+  ],
+  "MacularDegeneration_2": [
+    "BlurredVision_4",
+    "SkinRash_4",
+    "Headache_2"
+  ],
+  "Migraine_2": [
+    "JointPain_2",
+    "Constipation_1",
+    "Anxiety_3"
+  ],
+  "Allergy_2": [
+    "Itching",
+    "Bloating_4",
+    "Palpitations_5"
+  ],
+  "RheumatoidArthritis_2": [
+    "Dizziness_1",
+    "NightSweats_4",
+    "MuscleWeakness_1"
+  ],
+  "Osteoarthritis_2": [
+    "Numbness_6",
+    "Numbness_7",
+    "Dizziness",
+    "HighBloodSugar_1"
+  ],
+  "Sinusitis_2": [
+    "FrequentUrination_3",
+    "Dizziness_2",
+    "BackPain_3"
+  ],
+  "Type2Diabetes_2": [
+    "RunnyNose_2",
+    "LowOxygenSaturation_2",
+    "Dizziness_4",
+    "SwellingLegs",
+    "Bloating",
+    "Numbness_1",
+    "Palpitations"
+  ],
+  "COPD_2": [
+    "Headache_2",
+    "SkinRash_6",
+    "BackPain_5"
+  ],
+  "UrinaryTractInfection_2": [
+    "Cough_5",
+    "JointPain_1",
+    "SkinRash_5",
+    "NightSweats_1",
+    "SoreThroat_4"
+  ],
+  "Anemia_3": [
+    "WeightLoss_4",
+    "ShortnessOfBreath_2",
+    "SkinRash_2",
+    "IrregularHeartbeat_7",
+    "Palpitations_6",
+    "Anxiety_4",
+    "Nausea_7"
+  ],
+  "Anxiety_3": [
+    "BackPain_1",
+    "HighBloodSugar_3",
+    "WeightGain_5",
+    "HairLoss_5",
+    "Palpitations",
+    "ShortnessOfBreath_5"
+  ],
+  "IBS_3": [
+    "ChestPain_4",
+    "WeightGain_5",
+    "MuscleWeakness_2",
+    "ChestPain_2",
+    "ShortnessOfBreath_5"
+  ],
+  "Osteoporosis_3": [
+    "SkinRash_4",
+    "Dizziness_4",
+    "WeightGain_7",
+    "Fatigue_6",
+    "HighBloodSugar_6",
+    "Headache",
+    "Headache_5"
+  ],
+  "Bronchitis_3": [
+    "ChestPain_6",
+    "LowOxygenSaturation_2",
+    "Bloating_5"
+  ],
+  "Psoriasis_3": [
+    "Wheezing_5",
+    "BackPain_2",
+    "JointPain_5",
+    "BlurredVision_7"
+  ],
+  "Eczema_3": [
+    "Tremor_5",
+    "WeightLoss_4",
+    "WeightLoss_2",
+    "SoreThroat_6",
+    "Wheezing_4",
+    "MuscleWeakness_5"
+  ],
+  "Hyperthyroidism_3": [
+    "Fatigue_6",
+    "NightSweats_4",
+    "ChestPain_6",
+    "Fatigue_4"
+  ],
+  "ChronicKidneyDisease_3": [
+    "Nausea_2",
+    "BlurredVision_4",
+    "SwellingLegs",
+    "IrregularHeartbeat_4",
+    "BlurredVision_1"
+  ],
+  "Depression_3": [
+    "Bloating_3",
+    "WeightLoss_3",
+    "ShortnessOfBreath",
+    "WeightGain_3",
+    "Diarrhea_3",
+    "HairLoss",
+    "LowOxygenSaturation_1"
+  ],
+  "GERD_3": [
+    "PoorAppetite_3",
+    "SoreThroat",
+    "Fever_2"
+  ],
+  "Obesity_3": [
+    "Palpitations_2",
+    "BlurredVision_4",
+    "SoreThroat",
+    "BlurredVision",
+    "Headache_4",
+    "NightSweats_1"
+  ],
+  "Gout_3": [
+    "Palpitations_2",
+    "WeightGain",
+    "Dizziness_4",
+    "WeightGain_4",
+    "HairLoss_2"
+  ],
+  "Pneumonia_3": [
+    "WeightLoss_5",
+    "Tremor_3",
+    "Tremor_6",
+    "Dizziness_3",
+    "Cough_4"
+  ],
+  "Insomnia_3": [
+    "LowOxygenSaturation_4",
+    "Cough_1",
+    "WeightGain_4",
+    "Headache_5",
+    "Numbness_3",
+    "BlurredVision_3",
+    "BackPain_1"
+  ],
+  "Glaucoma_3": [
+    "IrregularHeartbeat_1",
+    "SwellingLegs_1",
+    "Wheezing",
+    "RunnyNose_7",
+    "Wheezing_2"
+  ],
+  "Hypertension_3": [
+    "WeightLoss_6",
+    "Wheezing_1",
+    "BackPain_5"
+  ],
+  "Hypothyroidism_3": [
+    "MuscleWeakness_1",
+    "Palpitations",
+    "DrySkin_6",
+    "BackPain_4"
+  ],
+  "HeartFailure_3": [
+    "Constipation_5",
+    "Diarrhea_5",
+    "LowOxygenSaturation_5",
+    "Anxiety_6"
+  ],
+  "Asthma_3": [
+    "SwellingLegs_5",
+    "ChestPain_1",
+    "RunnyNose_3",
+    "MuscleWeakness"
+  ],
+  "AtrialFibrillation_3": [
+    "Itching_3",
+    "Cough_2",
+    "SwellingLegs_1",
+    "WeightLoss"
+  ],
+  "MacularDegeneration_3": [
+    "Cough",
+    "Fever_3",
+    "Insomnia",
+    "ShortnessOfBreath_5",
+    "Headache_6",
+    "Diarrhea_3",
+    "IrregularHeartbeat_3"
+  ],
+  "Migraine_3": [
+    "Numbness_3",
+    "Wheezing_5",
+    "SkinRash_4",
+    "BackPain_3",
+    "Wheezing",
+    "Fever_2",
+    "Nausea_6"
+  ],
+  "Allergy_3": [
+    "ChestPain",
+    "Wheezing_5",
+    "Itching_5",
+    "BackPain_1",
+    "NightSweats_5",
+    "WeightLoss_3"
+  ],
+  "RheumatoidArthritis_3": [
+    "IrregularHeartbeat_3",
+    "ChestPain_6",
+    "Fatigue_2",
+    "HairLoss_4",
+    "Diarrhea_4",
+    "WeightGain",
+    "DrySkin_3"
+  ],
+  "Osteoarthritis_3": [
+    "Anxiety_4",
+    "ShortnessOfBreath_3",
+    "BlurredVision_5",
+    "Nausea_7",
+    "Insomnia_6"
+  ],
+  "Sinusitis_3": [
+    "Itching_5",
+    "WeightGain_4",
+    "RunnyNose_2",
+    "Dizziness_2",
+    "Cough_4",
+    "SkinRash_3",
+    "Bloating_5"
+  ],
+  "Type2Diabetes_3": [
+    "Fatigue_6",
+    "Insomnia_2",
+    "JointPain",
+    "Fever",
+    "Nausea_1",
+    "Cough",
+    "IrregularHeartbeat"
+  ],
+  "COPD_3": [
+    "BackPain_3",
+    "Nausea_4",
+    "Headache",
+    "Numbness_7",
+    "BlurredVision_6",
+    "SoreThroat_2",
+    "NightSweats_1"
+  ],
+  "UrinaryTractInfection_3": [
+    "WeightLoss",
+    "Diarrhea_1",
+    "HighBloodSugar_5"
+  ],
+  "Anemia_4": [
+    "Tremor_1",
+    "SwellingLegs",
+    "SkinRash_3",
+    "DrySkin_3",
+    "HighBloodSugar_6"
+  ],
+  "Anxiety_4": [
+    "MuscleWeakness_2",
+    "Palpitations_5",
+    "IrregularHeartbeat_1",
+    "SkinRash_4"
+  ],
+  "IBS_4": [
+    "BlurredVision_7",
+    "Itching_4",
+    "HighBloodSugar"
+  ],
+  "Osteoporosis_4": [
+    "LowOxygenSaturation",
+    "Wheezing_3",
+    "Bloating_6",
+    "Constipation_6",
+    "Headache_3"
+  ],
+  "Bronchitis_4": [
+    "ChestPain_3",
+    "RunnyNose_2",
+    "Bloating_5"
+  ],
+  "Psoriasis_4": [
+    "JointPain_3",
+    "WeightLoss_1",
+    "Wheezing_1",
+    "Headache_1",
+    "Palpitations_2"
+  ],
+  "Eczema_4": [
+    "Numbness_4",
+    "Wheezing_5",
+    "NightSweats_5"
+  ],
+  "Hyperthyroidism_4": [
+    "Constipation_1",
+    "ChestPain_3",
+    "PoorAppetite_4",
+    "DrySkin_7"
+  ],
+  "ChronicKidneyDisease_4": [
+    "Dizziness_2",
+    "NightSweats_6",
+    "NightSweats_1",
+    "Itching_1",
+    "Diarrhea_4",
+    "IrregularHeartbeat"
+  ],
+  "Depression_4": [
+    "ChestPain_6",
+    "WeightLoss_4",
+    "NightSweats_2",
+    "Palpitations_5"
+  ],
+  "GERD_4": [
+    "RunnyNose_5",
+    "Insomnia_1",
+    "JointPain_2",
+    "FrequentUrination_2",
+    "Anxiety",
+    "FrequentUrination_6"
+  ],
+  "Obesity_4": [
+    "Anxiety_5",
+    "MuscleWeakness_1",
+    "Anxiety_6",
+    "ChestPain_6",
+    "ShortnessOfBreath_5",
+    "WeightGain_7"
+  ],
+  "Gout_4": [
+    "Insomnia",
+    "Cough_5",
+    "ShortnessOfBreath_4",
+    "BlurredVision_6"
+  ],
+  "Pneumonia_4": [
+    "BlurredVision_7",
+    "Numbness_2",
+    "BackPain_4",
+    "Tremor",
+    "Wheezing_6",
+    "Fever_1"
+  ],
+  "Insomnia_4": [
+    "SoreThroat_4",
+    "Fatigue",
+    "SkinRash_4",
+    "Insomnia",
+    "Insomnia_1",
+    "Diarrhea"
+  ],
+  "Glaucoma_4": [
+    "Palpitations_2",
+    "Numbness_6",
+    "Insomnia_5",
+    "Bloating"
+  ],
+  "Hypertension_4": [
+    "WeightLoss_1",
+    "Palpitations_2",
+    "WeightGain_5"
+  ],
+  "Hypothyroidism_4": [
+    "NightSweats_5",
+    "FrequentUrination_5",
+    "Insomnia_1",
+    "Fatigue_4",
+    "DrySkin_5"
+  ],
+  "HeartFailure_4": [
+    "NightSweats_5",
+    "Fatigue_5",
+    "Fatigue_1",
+    "WeightLoss_5"
+  ],
+  "Asthma_4": [
+    "Fever_4",
+    "Bloating_6",
+    "HighBloodSugar",
+    "IrregularHeartbeat_5"
+  ],
+  "AtrialFibrillation_4": [
+    "Fatigue_6",
+    "Anxiety_2",
+    "RunnyNose_1",
+    "LowOxygenSaturation",
+    "BlurredVision_3",
+    "Numbness_4"
+  ],
+  "MacularDegeneration_4": [
+    "SwellingLegs",
+    "SkinRash_6",
+    "IrregularHeartbeat_3",
+    "MuscleWeakness_6",
+    "WeightLoss_1",
+    "NightSweats_3",
+    "Headache_4"
+  ],
+  "Migraine_4": [
+    "Tremor_2",
+    "Constipation_1",
+    "Itching_2",
+    "JointPain",
+    "Constipation_4",
+    "Constipation_3"
+  ],
+  "Allergy_4": [
+    "Itching_3",
+    "Dizziness_1",
+    "Wheezing_1"
+  ],
+  "RheumatoidArthritis_4": [
+    "BackPain_5",
+    "Tremor_5",
+    "LowOxygenSaturation_6",
+    "Nausea_1",
+    "Diarrhea_1"
+  ],
+  "Osteoarthritis_4": [
+    "NightSweats_6",
+    "IrregularHeartbeat_5",
+    "BackPain"
+  ],
+  "Sinusitis_4": [
+    "JointPain_1",
+    "BackPain_6",
+    "Wheezing_4",
+    "Cough",
+    "Palpitations",
+    "Bloating_1",
+    "SoreThroat_6"
+  ],
+  "Type2Diabetes_4": [
+    "FrequentUrination_3",
+    "RunnyNose_1",
+    "PoorAppetite_5",
+    "Tremor_2",
+    "HairLoss"
+  ],
+  "COPD_4": [
+    "BlurredVision",
+    "Wheezing_4",
+    "ShortnessOfBreath_1"
+  ],
+  "UrinaryTractInfection_4": [
+    "WeightLoss_1",
+    "WeightLoss_4",
+    "Headache_5"
+  ],
+  "Anemia_5": [
+    "BlurredVision",
+    "Tremor_2",
+    "SkinRash_6",
+    "Constipation_4",
+    "MuscleWeakness_3",
+    "Numbness_2",
+    "JointPain_5"
+  ],
+  "Anxiety_5": [
+    "MuscleWeakness_4",
+    "Anxiety",
+    "PoorAppetite_4",
+    "Itching_2",
+    "Cough_2",
+    "FrequentUrination_5",
+    "WeightGain_4"
+  ],
+  "IBS_5": [
+    "WeightLoss_2",
+    "ShortnessOfBreath_6",
+    "MuscleWeakness_1",
+    "Headache",
+    "Fatigue",
+    "WeightGain",
+    "HairLoss_3"
+  ],
+  "Osteoporosis_5": [
+    "BackPain_2",
+    "WeightGain_2",
+    "Palpitations_4"
+  ],
+  "Bronchitis_5": [
+    "ChestPain",
+    "Fever_3",
+    "Headache_1",
+    "RunnyNose_6"
+  ],
+  "Psoriasis_5": [
+    "Diarrhea_2",
+    "Nausea_7",
+    "Itching_4"
+  ],
+  "Eczema_5": [
+    "Cough_1",
+    "LowOxygenSaturation",
+    "HighBloodSugar_4",
+    "IrregularHeartbeat_6",
+    "Wheezing_3"
+  ],
+  "Hyperthyroidism_5": [
+    "Palpitations_1",
+    "Headache_3",
+    "MuscleWeakness",
+    "Insomnia",
+    "RunnyNose",
+    "Fever_3",
+    "Palpitations"
+  ],
+  "ChronicKidneyDisease_5": [
+    "PoorAppetite_5",
+    "ShortnessOfBreath_1",
+    "Numbness_7"
+  ],
+  "Depression_5": [
+    "LowOxygenSaturation_4",
+    "Palpitations_4",
+    "Headache_1",
+    "Fever_6",
+    "BlurredVision"
+  ],
+  "GERD_5": [
+    "Fever_3",
+    "Numbness_2",
+    "IrregularHeartbeat",
+    "ChestPain_5",
+    "Tremor",
+    "Diarrhea_3",
+    "Itching_4"
+  ],
+  "Obesity_5": [
+    "PoorAppetite_3",
+    "Wheezing_5",
+    "PoorAppetite_5"
+  ],
+  "Gout_5": [
+    "Nausea_1",
+    "Wheezing",
+    "RunnyNose_6",
+    "JointPain_1",
+    "Anxiety_3",
+    "Numbness_4"
+  ],
+  "Pneumonia_5": [
+    "Bloating_6",
+    "Insomnia_6",
+    "WeightLoss_4",
+    "Dizziness_5"
+  ],
+  "Insomnia_5": [
+    "FrequentUrination",
+    "Nausea_3",
+    "Palpitations_4",
+    "IrregularHeartbeat_2",
+    "PoorAppetite_1"
+  ],
+  "Glaucoma_5": [
+    "FrequentUrination_6",
+    "WeightLoss_1",
+    "Constipation_1"
+  ],
+  "Hypertension_5": [
+    "PoorAppetite_5",
+    "WeightGain_1",
+    "Cough_3",
+    "Nausea_1",
+    "Diarrhea",
+    "Itching"
+  ],
+  "Hypothyroidism_5": [
+    "LowOxygenSaturation",
+    "LowOxygenSaturation_5",
+    "Nausea_6",
+    "WeightLoss_2",
+    "MuscleWeakness_5",
+    "MuscleWeakness_3"
+  ],
+  "HeartFailure_5": [
+    "JointPain_2",
+    "SoreThroat_3",
+    "SkinRash",
+    "LowOxygenSaturation_5",
+    "IrregularHeartbeat_5",
+    "ChestPain_6"
+  ],
+  "Asthma_5": [
+    "IrregularHeartbeat_5",
+    "Diarrhea_3",
+    "SkinRash_2",
+    "LowOxygenSaturation_1",
+    "NightSweats_3",
+    "LowOxygenSaturation_3",
+    "Dizziness_3"
+  ],
+  "AtrialFibrillation_5": [
+    "Bloating",
+    "DrySkin_5",
+    "DrySkin_2",
+    "Cough_2",
+    "DrySkin_7",
+    "Bloating_4",
+    "Fever_2"
+  ],
+  "MacularDegeneration_5": [
+    "IrregularHeartbeat_2",
+    "DrySkin_2",
+    "FrequentUrination_1"
+  ],
+  "Migraine_5": [
+    "SwellingLegs_4",
+    "Itching_1",
+    "Headache_2",
+    "WeightGain_6",
+    "Itching_6"
+  ],
+  "Allergy_5": [
+    "RunnyNose_4",
+    "ChestPain_1",
+    "NightSweats_2",
+    "DrySkin",
+    "FrequentUrination_5"
+  ],
+  "RheumatoidArthritis_5": [
+    "Anxiety_3",
+    "Itching_4",
+    "SoreThroat_4"
+  ],
+  "Osteoarthritis_5": [
+    "Tremor_6",
+    "Numbness",
+    "HighBloodSugar_3",
+    "Constipation_2",
+    "SoreThroat_3"
+  ],
+  "Sinusitis_5": [
+    "LowOxygenSaturation_1",
+    "ChestPain_6",
+    "WeightGain_3",
+    "Diarrhea_2",
+    "LowOxygenSaturation_6",
+    "MuscleWeakness_1"
+  ],
+  "Type2Diabetes_5": [
+    "Wheezing_6",
+    "LowOxygenSaturation",
+    "BlurredVision_6",
+    "Tremor_2",
+    "RunnyNose_6",
+    "Headache_2",
+    "HighBloodSugar"
+  ],
+  "COPD_5": [
+    "MuscleWeakness",
+    "Nausea_6",
+    "Headache_1",
+    "RunnyNose_4",
+    "ChestPain_6"
+  ],
+  "UrinaryTractInfection_5": [
+    "NightSweats_5",
+    "Insomnia_2",
+    "SkinRash_5",
+    "LowOxygenSaturation_5",
+    "Palpitations_2",
+    "Tremor_6",
+    "Insomnia"
+  ],
+  "Anemia_6": [
+    "Fatigue_5",
+    "HighBloodSugar_6",
+    "Tremor_3",
+    "SkinRash_4",
+    "BlurredVision_1",
+    "Insomnia_5"
+  ],
+  "Anxiety_6": [
+    "Dizziness_1",
+    "SwellingLegs",
+    "DrySkin_6",
+    "BlurredVision_1"
+  ],
+  "IBS_6": [
+    "Headache_1",
+    "NightSweats_5",
+    "Palpitations_5"
+  ],
+  "Osteoporosis_6": [
+    "SwellingLegs_1",
+    "BackPain_5",
+    "BlurredVision_2",
+    "IrregularHeartbeat_2",
+    "LowOxygenSaturation_1",
+    "NightSweats_1"
+  ],
+  "Bronchitis_6": [
+    "ShortnessOfBreath_5",
+    "SoreThroat",
+    "Insomnia_5",
+    "ShortnessOfBreath_4",
+    "Anxiety_3",
+    "ShortnessOfBreath",
+    "HighBloodSugar_6"
+  ],
+  "Psoriasis_6": [
+    "ChestPain_3",
+    "Itching_5",
+    "SkinRash_1",
+    "Cough_2",
+    "PoorAppetite_6"
+  ],
+  "Eczema_6": [
+    "Bloating",
+    "WeightLoss_2",
+    "HairLoss_2",
+    "JointPain_2",
+    "ChestPain",
+    "SoreThroat_3",
+    "WeightLoss"
+  ],
+  "Hyperthyroidism_6": [
+    "Constipation_4",
+    "BackPain_4",
+    "Diarrhea_2",
+    "Cough_3",
+    "PoorAppetite_1",
+    "MuscleWeakness_4",
+    "Bloating"
+  ],
+  "ChronicKidneyDisease_6": [
+    "BlurredVision",
+    "RunnyNose_3",
+    "SwellingLegs_3",
+    "Tremor_4",
+    "BackPain_3",
+    "DrySkin_6",
+    "Tremor_5"
+  ],
+  "Depression_6": [
+    "Headache_4",
+    "SoreThroat_1",
+    "JointPain_6",
+    "BackPain",
+    "Dizziness_4"
+  ],
+  "GERD_6": [
+    "HairLoss_5",
+    "SoreThroat_4",
+    "Constipation_1",
+    "Anxiety",
+    "Nausea_7",
+    "WeightGain_4",
+    "Cough_3"
+  ],
+  "Obesity_6": [
+    "LowOxygenSaturation_2",
+    "FrequentUrination_2",
+    "RunnyNose_4",
+    "Anxiety_1",
+    "ShortnessOfBreath_6"
+  ],
+  "Gout_6": [
+    "PoorAppetite_5",
+    "ShortnessOfBreath_3",
+    "RunnyNose_4",
+    "SwellingLegs_6",
+    "Cough_1"
+  ],
+  "Pneumonia_6": [
+    "Wheezing_5",
+    "HighBloodSugar",
+    "Numbness_2",
+    "Fatigue_1",
+    "JointPain_2"
+  ],
+  "Insomnia_6": [
+    "Nausea",
+    "LowOxygenSaturation_6",
+    "BackPain_3"
+  ],
+  "Glaucoma_6": [
+    "JointPain_1",
+    "RunnyNose_6",
+    "IrregularHeartbeat_6"
+  ],
+  "Hypertension_6": [
+    "ShortnessOfBreath_2",
+    "SkinRash",
+    "Nausea",
+    "SoreThroat_3",
+    "WeightGain_3"
+  ],
+  "Hypothyroidism_6": [
+    "Dizziness_4",
+    "RunnyNose_6",
+    "BackPain_1",
+    "Wheezing_4",
+    "Fatigue_6",
+    "IrregularHeartbeat_5",
+    "Cough_2"
+  ],
+  "HeartFailure_6": [
+    "Cough",
+    "SoreThroat_1",
+    "PoorAppetite",
+    "Palpitations_1",
+    "Itching_5",
+    "Diarrhea_6",
+    "Bloating_5"
+  ],
+  "Asthma_6": [
+    "Cough_1",
+    "DrySkin_4",
+    "Insomnia_1",
+    "NightSweats_1",
+    "Nausea_7",
+    "ChestPain_2",
+    "JointPain_2"
+  ],
+  "AtrialFibrillation_6": [
+    "BlurredVision_2",
+    "PoorAppetite_1",
+    "Nausea_1",
+    "LowOxygenSaturation_1",
+    "Palpitations_3",
+    "PoorAppetite_3"
+  ],
+  "MacularDegeneration_6": [
+    "BlurredVision",
+    "Fatigue_1",
+    "LowOxygenSaturation_2"
+  ],
+  "Migraine_6": [
+    "Wheezing_4",
+    "SwellingLegs_2",
+    "Insomnia_1",
+    "ShortnessOfBreath_5",
+    "Cough_5"
+  ],
+  "Allergy_6": [
+    "Fever_1",
+    "Itching_5",
+    "Wheezing_6",
+    "Headache_6"
+  ],
+  "RheumatoidArthritis_6": [
+    "SwellingLegs_1",
+    "JointPain_5",
+    "SkinRash_6",
+    "Palpitations",
+    "BackPain",
+    "ShortnessOfBreath_3"
+  ],
+  "Osteoarthritis_6": [
+    "SoreThroat_3",
+    "JointPain_6",
+    "Itching_4",
+    "Fever_5",
+    "BlurredVision_2",
+    "HighBloodSugar"
+  ],
+  "Sinusitis_6": [
+    "HairLoss_5",
+    "Tremor_3",
+    "BlurredVision_1",
+    "SoreThroat_6",
+    "Diarrhea_6",
+    "Anxiety_6"
+  ],
+  "Type2Diabetes_6": [
+    "Itching_2",
+    "Fever_6",
+    "JointPain_4",
+    "RunnyNose_5",
+    "HighBloodSugar"
+  ],
+  "COPD_6": [
+    "MuscleWeakness",
+    "JointPain_4",
+    "MuscleWeakness_5",
+    "Numbness_4"
+  ],
+  "UrinaryTractInfection_6": [
+    "Dizziness_2",
+    "Cough_2",
+    "ShortnessOfBreath_1",
+    "SwellingLegs_5",
+    "Nausea_3"
+  ],
+  "Anemia_7": [
+    "BackPain_1",
+    "IrregularHeartbeat_7",
+    "Nausea",
+    "Cough",
+    "Numbness_6",
+    "Wheezing_6",
+    "NightSweats_2"
+  ],
+  "Anxiety_7": [
+    "RunnyNose_4",
+    "LowOxygenSaturation_6",
+    "BackPain_1",
+    "Fatigue_1",
+    "Wheezing_5"
+  ],
+  "IBS_7": [
+    "Wheezing_1",
+    "SoreThroat_2",
+    "Numbness_7",
+    "SwellingLegs_4",
+    "Palpitations_1"
+  ],
+  "Osteoporosis_7": [
+    "RunnyNose",
+    "NightSweats_1",
+    "Tremor",
+    "LowOxygenSaturation_5",
+    "Nausea_2",
+    "HighBloodSugar"
+  ],
+  "Bronchitis_7": [
+    "RunnyNose_3",
+    "SoreThroat_5",
+    "Anxiety_3"
+  ],
+  "Psoriasis_7": [
+    "HighBloodSugar",
+    "RunnyNose",
+    "FrequentUrination_3",
+    "Wheezing_2",
+    "PoorAppetite_6"
+  ],
+  "Eczema_7": [
+    "Anxiety_6",
+    "NightSweats_2",
+    "Nausea_1",
+    "Palpitations_2",
+    "WeightLoss_2"
+  ],
+  "Hyperthyroidism_7": [
+    "HairLoss",
+    "PoorAppetite_4",
+    "Constipation_6",
+    "IrregularHeartbeat_5",
+    "MuscleWeakness_1"
+  ],
+  "ChronicKidneyDisease_7": [
+    "MuscleWeakness_3",
+    "ShortnessOfBreath_4",
+    "BlurredVision_5",
+    "RunnyNose_4"
+  ],
+  "Depression_7": [
+    "LowOxygenSaturation_3",
+    "WeightLoss_3",
+    "FrequentUrination",
+    "FrequentUrination_4",
+    "LowOxygenSaturation_5",
+    "Insomnia_1"
+  ]
+}

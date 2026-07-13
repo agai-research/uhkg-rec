@@ -1,0 +1,598 @@
+{
+  "Metformin": [
+    "Smartwatch-B"
+  ],
+  "Lisinopril": [
+    "Air Quality Sensor"
+  ],
+  "Albuterol": [
+    "Pulse Oximeter-C"
+  ],
+  "Fluticasone": [
+    "Smart Inhaler-B",
+    "Defibrillator-C"
+  ],
+  "Sumatriptan": [],
+  "Hydrocortisone": [],
+  "Methotrexate": [
+    "Hydration Sensor",
+    "Smartwatch-C"
+  ],
+  "Ibuprofen": [],
+  "Omeprazole": [
+    "CGM-B"
+  ],
+  "Loperamide": [
+    "ECG Monitor-B",
+    "Smart Bed"
+  ],
+  "Furosemide": [
+    "Fall Detector-B",
+    "Defibrillator-C"
+  ],
+  "Levothyroxine": [],
+  "Methimazole": [
+    "Air Quality Sensor",
+    "Spirometer-B"
+  ],
+  "Sertraline": [
+    "Hydration Sensor-B"
+  ],
+  "Escitalopram": [
+    "Smartwatch-C",
+    "Blood Pressure Cuff"
+  ],
+  "Zolpidem": [
+    "UV Exposure Sensor"
+  ],
+  "Amiodarone": [
+    "Sleep Tracker-B",
+    "Air Quality Sensor-C"
+  ],
+  "Bisoprolol": [],
+  "FerrousSulfate": [],
+  "Nitrofurantoin": [
+    "CGM-C",
+    "Blood Pressure Cuff"
+  ],
+  "Amoxicillin": [
+    "Smart Bed",
+    "Spirometer"
+  ],
+  "Azithromycin": [],
+  "Cetirizine": [
+    "Spirometer"
+  ],
+  "Orlistat": [],
+  "Alendronate": [
+    "Insulin Pump",
+    "Smart Inhaler"
+  ],
+  "Latanoprost": [
+    "Smartwatch-C"
+  ],
+  "Ranibizumab": [],
+  "Allopurinol": [
+    "Spirometer",
+    "Smart Inhaler-B"
+  ],
+  "Insulin": [
+    "UV Exposure Sensor-B",
+    "Smartwatch-B"
+  ],
+  "Atorvastatin": [],
+  "Metformin Monitoring Service": [],
+  "Lisinopril Monitoring Service": [],
+  "Albuterol Monitoring Service": [
+    "UV Exposure Sensor-B"
+  ],
+  "Fluticasone Monitoring Service": [
+    "Defibrillator-C",
+    "UV Exposure Sensor"
+  ],
+  "Sumatriptan Monitoring Service": [],
+  "Hydrocortisone Monitoring Service": [
+    "Fall Detector",
+    "ECG Monitor"
+  ],
+  "Methotrexate Monitoring Service": [],
+  "Ibuprofen Monitoring Service": [
+    "CGM-B",
+    "Thermal Camera-C"
+  ],
+  "Omeprazole Monitoring Service": [
+    "Defibrillator-B",
+    "Blood Pressure Cuff-B"
+  ],
+  "Loperamide Monitoring Service": [],
+  "Furosemide Monitoring Service": [
+    "Sleep Tracker-B",
+    "Fall Detector-B"
+  ],
+  "Levothyroxine Monitoring Service": [],
+  "Methimazole Monitoring Service": [
+    "Spirometer"
+  ],
+  "Sertraline Monitoring Service": [
+    "CGM",
+    "Air Quality Sensor-C"
+  ],
+  "Escitalopram Monitoring Service": [
+    "CGM-C",
+    "Blood Pressure Cuff"
+  ],
+  "Zolpidem Monitoring Service": [],
+  "Amiodarone Monitoring Service": [
+    "Hydration Sensor-B",
+    "Smart Bed-C"
+  ],
+  "Bisoprolol Monitoring Service": [
+    "Defibrillator",
+    "Smartwatch-B"
+  ],
+  "FerrousSulfate Monitoring Service": [
+    "Hydration Sensor-B",
+    "CGM"
+  ],
+  "Nitrofurantoin Monitoring Service": [
+    "Defibrillator",
+    "Defibrillator-B"
+  ],
+  "Amoxicillin Monitoring Service": [
+    "Smart Inhaler-B",
+    "Blood Pressure Cuff"
+  ],
+  "Azithromycin Monitoring Service": [],
+  "Cetirizine Monitoring Service": [
+    "ECG Monitor-C",
+    "CGM"
+  ],
+  "Orlistat Monitoring Service": [],
+  "Alendronate Monitoring Service": [
+    "Smart Bed-B",
+    "ECG Monitor-B"
+  ],
+  "Latanoprost Monitoring Service": [],
+  "Ranibizumab Monitoring Service": [
+    "Defibrillator-B",
+    "Hydration Sensor-B"
+  ],
+  "Allopurinol Monitoring Service": [
+    "Smart Bed-C"
+  ],
+  "Insulin Monitoring Service": [
+    "Sleep Tracker-B"
+  ],
+  "Atorvastatin Monitoring Service": [
+    "ECG Monitor"
+  ],
+  "Metformin Consultation": [],
+  "Lisinopril Consultation": [],
+  "Albuterol Consultation": [],
+  "Fluticasone Consultation": [],
+  "Sumatriptan Consultation": [
+    "ECG Monitor",
+    "Defibrillator"
+  ],
+  "Hydrocortisone Consultation": [
+    "Air Quality Sensor"
+  ],
+  "Methotrexate Consultation": [],
+  "Ibuprofen Consultation": [
+    "UV Exposure Sensor-B"
+  ],
+  "Omeprazole Consultation": [],
+  "Loperamide Consultation": [
+    "UV Exposure Sensor-B"
+  ],
+  "Furosemide Consultation": [
+    "Smart Bed-B"
+  ],
+  "Levothyroxine Consultation": [],
+  "Methimazole Consultation": [
+    "Insulin Pump"
+  ],
+  "Sertraline Consultation": [
+    "ECG Monitor-B"
+  ],
+  "Escitalopram Consultation": [
+    "Pulse Oximeter-C"
+  ],
+  "Zolpidem Consultation": [
+    "ECG Monitor-C"
+  ],
+  "Amiodarone Consultation": [],
+  "Bisoprolol Consultation": [
+    "Smart Inhaler"
+  ],
+  "FerrousSulfate Consultation": [],
+  "Nitrofurantoin Consultation": [
+    "Fall Detector-B"
+  ],
+  "Amoxicillin Consultation": [],
+  "Azithromycin Consultation": [
+    "Sleep Tracker-B"
+  ],
+  "Cetirizine Consultation": [],
+  "Orlistat Consultation": [
+    "ECG Monitor-C"
+  ],
+  "Alendronate Consultation": [],
+  "Latanoprost Consultation": [
+    "Hydration Sensor-B",
+    "Defibrillator"
+  ],
+  "Ranibizumab Consultation": [],
+  "Allopurinol Consultation": [
+    "Smartwatch-B",
+    "Insulin Pump-B"
+  ],
+  "Insulin Consultation": [],
+  "Atorvastatin Consultation": [
+    "Thermal Camera",
+    "Spirometer-B"
+  ],
+  "Metformin Management Program": [
+    "Sleep Tracker"
+  ],
+  "Lisinopril Management Program": [],
+  "Albuterol Management Program": [
+    "Defibrillator",
+    "UV Exposure Sensor"
+  ],
+  "Fluticasone Management Program": [],
+  "Sumatriptan Management Program": [
+    "Thermal Camera-B",
+    "UV Exposure Sensor-B"
+  ],
+  "Hydrocortisone Management Program": [
+    "Thermal Camera",
+    "Defibrillator"
+  ],
+  "Methotrexate Management Program": [
+    "CGM"
+  ],
+  "Ibuprofen Management Program": [],
+  "Omeprazole Management Program": [
+    "Defibrillator-C",
+    "Thermal Camera"
+  ],
+  "Loperamide Management Program": [
+    "Hydration Sensor-B",
+    "Pulse Oximeter-C"
+  ],
+  "Furosemide Management Program": [],
+  "Levothyroxine Management Program": [
+    "Defibrillator",
+    "Blood Pressure Cuff-B"
+  ],
+  "Methimazole Management Program": [
+    "Sleep Tracker",
+    "Hydration Sensor-B"
+  ],
+  "Sertraline Management Program": [],
+  "Escitalopram Management Program": [
+    "UV Exposure Sensor-B",
+    "Smart Bed-C"
+  ],
+  "Zolpidem Management Program": [],
+  "Amiodarone Management Program": [],
+  "Bisoprolol Management Program": [
+    "CGM-B",
+    "Smart Bed"
+  ],
+  "FerrousSulfate Management Program": [],
+  "Nitrofurantoin Management Program": [
+    "Blood Pressure Cuff-B",
+    "Thermal Camera"
+  ],
+  "Amoxicillin Management Program": [
+    "Smart Bed-B"
+  ],
+  "Azithromycin Management Program": [],
+  "Cetirizine Management Program": [
+    "Defibrillator",
+    "Air Quality Sensor-B"
+  ],
+  "Orlistat Management Program": [
+    "ECG Monitor-B",
+    "ECG Monitor"
+  ],
+  "Alendronate Management Program": [
+    "Hydration Sensor-B"
+  ],
+  "Latanoprost Management Program": [
+    "Sleep Tracker",
+    "Defibrillator-C"
+  ],
+  "Ranibizumab Management Program": [],
+  "Allopurinol Management Program": [
+    "Smartwatch-B"
+  ],
+  "Insulin Management Program": [
+    "UV Exposure Sensor",
+    "Defibrillator-C"
+  ],
+  "Atorvastatin Management Program": [
+    "CGM-C"
+  ],
+  "Metformin Rehabilitation Service": [],
+  "Lisinopril Rehabilitation Service": [],
+  "Albuterol Rehabilitation Service": [
+    "Insulin Pump-B",
+    "Smartwatch-C"
+  ],
+  "Fluticasone Rehabilitation Service": [],
+  "Sumatriptan Rehabilitation Service": [
+    "ECG Monitor-C"
+  ],
+  "Hydrocortisone Rehabilitation Service": [],
+  "Methotrexate Rehabilitation Service": [
+    "ECG Monitor-B",
+    "Smartwatch-C"
+  ],
+  "Ibuprofen Rehabilitation Service": [],
+  "Omeprazole Rehabilitation Service": [
+    "Defibrillator-B"
+  ],
+  "Loperamide Rehabilitation Service": [],
+  "Furosemide Rehabilitation Service": [],
+  "Levothyroxine Rehabilitation Service": [
+    "Smart Inhaler"
+  ],
+  "Methimazole Rehabilitation Service": [
+    "Sleep Tracker",
+    "Pulse Oximeter-B"
+  ],
+  "Sertraline Rehabilitation Service": [
+    "Smart Inhaler-B",
+    "Hydration Sensor-B"
+  ],
+  "Escitalopram Rehabilitation Service": [
+    "ECG Monitor"
+  ],
+  "Zolpidem Rehabilitation Service": [
+    "Hydration Sensor-B"
+  ],
+  "Amiodarone Rehabilitation Service": [
+    "CGM-B"
+  ],
+  "Bisoprolol Rehabilitation Service": [
+    "Air Quality Sensor",
+    "Spirometer-B"
+  ],
+  "FerrousSulfate Rehabilitation Service": [],
+  "Nitrofurantoin Rehabilitation Service": [],
+  "Amoxicillin Rehabilitation Service": [
+    "Hydration Sensor-B",
+    "Air Quality Sensor"
+  ],
+  "Azithromycin Rehabilitation Service": [],
+  "Cetirizine Rehabilitation Service": [
+    "Insulin Pump-B"
+  ],
+  "Orlistat Rehabilitation Service": [
+    "ECG Monitor-B"
+  ],
+  "Alendronate Rehabilitation Service": [
+    "Defibrillator",
+    "CGM-B"
+  ],
+  "Latanoprost Rehabilitation Service": [],
+  "Ranibizumab Rehabilitation Service": [
+    "Defibrillator-B",
+    "Smart Bed-B"
+  ],
+  "Allopurinol Rehabilitation Service": [],
+  "Insulin Rehabilitation Service": [],
+  "Atorvastatin Rehabilitation Service": [],
+  "Metformin Screening Service": [],
+  "Lisinopril Screening Service": [
+    "Smart Bed-B",
+    "Defibrillator-B"
+  ],
+  "Albuterol Screening Service": [
+    "Spirometer-B"
+  ],
+  "Fluticasone Screening Service": [],
+  "Sumatriptan Screening Service": [
+    "Smart Bed-B"
+  ],
+  "Hydrocortisone Screening Service": [],
+  "Methotrexate Screening Service": [],
+  "Ibuprofen Screening Service": [],
+  "Omeprazole Screening Service": [
+    "ECG Monitor-B"
+  ],
+  "Loperamide Screening Service": [],
+  "Furosemide Screening Service": [],
+  "Levothyroxine Screening Service": [
+    "Air Quality Sensor-B",
+    "Insulin Pump-B"
+  ],
+  "Methimazole Screening Service": [
+    "Sleep Tracker-B",
+    "Thermal Camera-C"
+  ],
+  "Sertraline Screening Service": [],
+  "Escitalopram Screening Service": [],
+  "Zolpidem Screening Service": [
+    "Blood Pressure Cuff",
+    "Pulse Oximeter"
+  ],
+  "Amiodarone Screening Service": [
+    "Thermal Camera-C"
+  ],
+  "Bisoprolol Screening Service": [
+    "Pulse Oximeter-B"
+  ],
+  "FerrousSulfate Screening Service": [],
+  "Nitrofurantoin Screening Service": [
+    "Fall Detector",
+    "Air Quality Sensor"
+  ],
+  "Amoxicillin Screening Service": [],
+  "Azithromycin Screening Service": [
+    "Smart Bed-C"
+  ],
+  "Cetirizine Screening Service": [],
+  "Orlistat Screening Service": [
+    "Smart Bed"
+  ],
+  "Alendronate Screening Service": [
+    "Spirometer",
+    "Air Quality Sensor"
+  ],
+  "Latanoprost Screening Service": [
+    "Hydration Sensor-B",
+    "Defibrillator"
+  ],
+  "Ranibizumab Screening Service": [
+    "Blood Pressure Cuff-B",
+    "Blood Pressure Cuff"
+  ],
+  "Allopurinol Screening Service": [],
+  "Insulin Screening Service": [
+    "Sleep Tracker-B"
+  ],
+  "Atorvastatin Screening Service": [
+    "Hydration Sensor",
+    "Defibrillator-B"
+  ],
+  "Metformin Counseling Service": [],
+  "Lisinopril Counseling Service": [],
+  "Albuterol Counseling Service": [
+    "Blood Pressure Cuff-B"
+  ],
+  "Fluticasone Counseling Service": [],
+  "Sumatriptan Counseling Service": [
+    "Smart Bed-C"
+  ],
+  "Hydrocortisone Counseling Service": [],
+  "Methotrexate Counseling Service": [],
+  "Ibuprofen Counseling Service": [],
+  "Omeprazole Counseling Service": [],
+  "Loperamide Counseling Service": [],
+  "Furosemide Counseling Service": [],
+  "Levothyroxine Counseling Service": [
+    "Pulse Oximeter-C",
+    "Defibrillator-C"
+  ],
+  "Methimazole Counseling Service": [],
+  "Sertraline Counseling Service": [
+    "Pulse Oximeter-B"
+  ],
+  "Escitalopram Counseling Service": [
+    "Smart Inhaler-B",
+    "Blood Pressure Cuff"
+  ],
+  "Zolpidem Counseling Service": [
+    "Hydration Sensor-B"
+  ],
+  "Amiodarone Counseling Service": [],
+  "Bisoprolol Counseling Service": [
+    "Defibrillator-C",
+    "Pulse Oximeter-B"
+  ],
+  "FerrousSulfate Counseling Service": [
+    "Smart Bed-C"
+  ],
+  "Nitrofurantoin Counseling Service": [],
+  "Amoxicillin Counseling Service": [],
+  "Azithromycin Counseling Service": [
+    "Smart Bed"
+  ],
+  "Cetirizine Counseling Service": [],
+  "Orlistat Counseling Service": [
+    "Smartwatch",
+    "Fall Detector-B"
+  ],
+  "Alendronate Counseling Service": [],
+  "Latanoprost Counseling Service": [],
+  "Ranibizumab Counseling Service": [
+    "Smart Inhaler"
+  ],
+  "Allopurinol Counseling Service": [
+    "Pulse Oximeter-C"
+  ],
+  "Insulin Counseling Service": [
+    "ECG Monitor-C"
+  ],
+  "Atorvastatin Counseling Service": [
+    "Hydration Sensor"
+  ],
+  "Metformin Therapy": [
+    "Spirometer-B"
+  ],
+  "Lisinopril Therapy": [],
+  "Albuterol Therapy": [
+    "Spirometer",
+    "ECG Monitor"
+  ],
+  "Fluticasone Therapy": [],
+  "Sumatriptan Therapy": [],
+  "Hydrocortisone Therapy": [
+    "Defibrillator-C"
+  ],
+  "Methotrexate Therapy": [],
+  "Ibuprofen Therapy": [],
+  "Omeprazole Therapy": [],
+  "Loperamide Therapy": [
+    "Smartwatch-B"
+  ],
+  "Furosemide Therapy": [
+    "Smart Bed-C"
+  ],
+  "Levothyroxine Therapy": [
+    "Air Quality Sensor",
+    "ECG Monitor"
+  ],
+  "Methimazole Therapy": [],
+  "Sertraline Therapy": [],
+  "Escitalopram Therapy": [
+    "Insulin Pump-B",
+    "Smart Bed-B"
+  ],
+  "Zolpidem Therapy": [
+    "Hydration Sensor-B"
+  ],
+  "Amiodarone Therapy": [
+    "CGM-C",
+    "Thermal Camera-C"
+  ],
+  "Bisoprolol Therapy": [
+    "Air Quality Sensor",
+    "Smartwatch"
+  ],
+  "FerrousSulfate Therapy": [],
+  "Nitrofurantoin Therapy": [],
+  "Amoxicillin Therapy": [
+    "Smartwatch-B"
+  ],
+  "Azithromycin Therapy": [
+    "Smart Bed-B"
+  ],
+  "Cetirizine Therapy": [
+    "CGM-C",
+    "Smart Bed"
+  ],
+  "Orlistat Therapy": [
+    "CGM-C",
+    "Pulse Oximeter-B"
+  ],
+  "Alendronate Therapy": [],
+  "Latanoprost Therapy": [
+    "Spirometer-B"
+  ],
+  "Ranibizumab Therapy": [
+    "Fall Detector-B",
+    "Defibrillator-C"
+  ],
+  "Allopurinol Therapy": [
+    "Thermal Camera-C"
+  ],
+  "Insulin Therapy": [],
+  "Atorvastatin Therapy": [
+    "Pulse Oximeter"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "N_s": 260,
+  "N_h": 240,
+  "N_devices": 40,
+  "N_diseases": 220,
+  "N_patients": 300,
+  "N_facts": 3000,
+  "d_conf_percent": 21.946,
+  "N_conflicts": 6294,
+  "N_int": 1232,
+  "positive_negative_ratio": 0.47,
+  "d_int_percent": 1.711,
+  "N_o": 40,
+  "note": "N_rp and N_sp (requirement/service pattern counts) are added by Matching/pattern_mining.py after mining, and updated here.",
+  "N_rp": 8,
+  "N_sp": 4
+}

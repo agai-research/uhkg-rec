@@ -1,0 +1,978 @@
+{
+  "Metformin": [
+    "Gout_1"
+  ],
+  "Lisinopril": [
+    "Hypertension",
+    "Allergy_1",
+    "MacularDegeneration_5"
+  ],
+  "Albuterol": [
+    "Depression_6",
+    "HeartFailure_6",
+    "MacularDegeneration_3"
+  ],
+  "Fluticasone": [
+    "Glaucoma_1"
+  ],
+  "Sumatriptan": [
+    "HeartFailure",
+    "Type2Diabetes_4",
+    "Anemia_7"
+  ],
+  "Hydrocortisone": [
+    "Anxiety",
+    "Insomnia_5",
+    "Bronchitis_6"
+  ],
+  "Methotrexate": [
+    "Type2Diabetes",
+    "Insomnia_2",
+    "MacularDegeneration_6"
+  ],
+  "Ibuprofen": [
+    "Hypertension_4"
+  ],
+  "Omeprazole": [
+    "GERD_3",
+    "Allergy_6",
+    "RheumatoidArthritis_6"
+  ],
+  "Loperamide": [
+    "Psoriasis_3",
+    "IBS",
+    "MacularDegeneration_4"
+  ],
+  "Furosemide": [
+    "MacularDegeneration",
+    "HeartFailure_2",
+    "Allergy_1"
+  ],
+  "Levothyroxine": [
+    "Hyperthyroidism_5"
+  ],
+  "Methimazole": [
+    "UrinaryTractInfection"
+  ],
+  "Sertraline": [
+    "COPD_3",
+    "Glaucoma_5",
+    "AtrialFibrillation_4"
+  ],
+  "Escitalopram": [
+    "Anxiety_3",
+    "IBS_1"
+  ],
+  "Zolpidem": [
+    "MacularDegeneration_2"
+  ],
+  "Amiodarone": [
+    "UrinaryTractInfection_4",
+    "Depression_1",
+    "RheumatoidArthritis_4"
+  ],
+  "Bisoprolol": [
+    "IBS_6"
+  ],
+  "FerrousSulfate": [
+    "Allergy_5"
+  ],
+  "Nitrofurantoin": [
+    "COPD_3",
+    "RheumatoidArthritis_3"
+  ],
+  "Amoxicillin": [
+    "AtrialFibrillation",
+    "Psoriasis_7",
+    "Obesity_2"
+  ],
+  "Azithromycin": [
+    "Hyperthyroidism_7"
+  ],
+  "Cetirizine": [
+    "COPD_6"
+  ],
+  "Orlistat": [
+    "MacularDegeneration_4"
+  ],
+  "Alendronate": [
+    "Anemia_4",
+    "Hypothyroidism_5",
+    "HeartFailure_6"
+  ],
+  "Latanoprost": [
+    "Obesity_3"
+  ],
+  "Ranibizumab": [
+    "Asthma_5"
+  ],
+  "Allopurinol": [
+    "Gout_1",
+    "Pneumonia_6",
+    "Obesity_4"
+  ],
+  "Insulin": [
+    "ChronicKidneyDisease_6"
+  ],
+  "Atorvastatin": [
+    "UrinaryTractInfection_1",
+    "Hypertension"
+  ],
+  "Metformin Monitoring Service": [
+    "Depression_3",
+    "Anemia_4"
+  ],
+  "Lisinopril Monitoring Service": [
+    "Anemia_6"
+  ],
+  "Albuterol Monitoring Service": [
+    "IBS_7",
+    "GERD_2",
+    "Osteoporosis_7"
+  ],
+  "Fluticasone Monitoring Service": [
+    "Gout_4"
+  ],
+  "Sumatriptan Monitoring Service": [
+    "Gout_4"
+  ],
+  "Hydrocortisone Monitoring Service": [
+    "Bronchitis_5",
+    "Anxiety"
+  ],
+  "Methotrexate Monitoring Service": [
+    "Obesity_2",
+    "RheumatoidArthritis_1",
+    "ChronicKidneyDisease_1"
+  ],
+  "Ibuprofen Monitoring Service": [
+    "Bronchitis_6",
+    "UrinaryTractInfection"
+  ],
+  "Omeprazole Monitoring Service": [
+    "Psoriasis",
+    "IBS_2"
+  ],
+  "Loperamide Monitoring Service": [
+    "Sinusitis_4"
+  ],
+  "Furosemide Monitoring Service": [
+    "Pneumonia_3",
+    "Osteoporosis_5",
+    "RheumatoidArthritis_4"
+  ],
+  "Levothyroxine Monitoring Service": [
+    "RheumatoidArthritis_3"
+  ],
+  "Methimazole Monitoring Service": [
+    "IBS_7"
+  ],
+  "Sertraline Monitoring Service": [
+    "Allergy_6"
+  ],
+  "Escitalopram Monitoring Service": [
+    "Hyperthyroidism_2",
+    "Gout_1",
+    "Psoriasis_6"
+  ],
+  "Zolpidem Monitoring Service": [
+    "Type2Diabetes"
+  ],
+  "Amiodarone Monitoring Service": [
+    "Hypothyroidism_3",
+    "Anxiety_7",
+    "ChronicKidneyDisease_1"
+  ],
+  "Bisoprolol Monitoring Service": [
+    "ChronicKidneyDisease_4",
+    "Gout_6",
+    "Anemia_1"
+  ],
+  "FerrousSulfate Monitoring Service": [
+    "Pneumonia_4",
+    "Hypothyroidism_3"
+  ],
+  "Nitrofurantoin Monitoring Service": [
+    "Migraine_6",
+    "Hypertension_6"
+  ],
+  "Amoxicillin Monitoring Service": [
+    "Type2Diabetes_4",
+    "Osteoarthritis",
+    "HeartFailure_3"
+  ],
+  "Azithromycin Monitoring Service": [
+    "Insomnia_3",
+    "Psoriasis_2",
+    "HeartFailure_1"
+  ],
+  "Cetirizine Monitoring Service": [
+    "Insomnia_3",
+    "IBS_3"
+  ],
+  "Orlistat Monitoring Service": [
+    "HeartFailure_3",
+    "RheumatoidArthritis_4",
+    "Osteoporosis_3"
+  ],
+  "Alendronate Monitoring Service": [
+    "Osteoporosis_4",
+    "Glaucoma_1",
+    "Bronchitis_3"
+  ],
+  "Latanoprost Monitoring Service": [
+    "Anemia_1",
+    "Obesity_6",
+    "COPD_1"
+  ],
+  "Ranibizumab Monitoring Service": [
+    "Osteoarthritis_6",
+    "AtrialFibrillation_4"
+  ],
+  "Allopurinol Monitoring Service": [
+    "Anxiety",
+    "Osteoarthritis_6",
+    "Allergy"
+  ],
+  "Insulin Monitoring Service": [
+    "ChronicKidneyDisease_3",
+    "Gout_3",
+    "Hyperthyroidism_5"
+  ],
+  "Atorvastatin Monitoring Service": [
+    "Pneumonia_5"
+  ],
+  "Metformin Consultation": [
+    "Pneumonia_2",
+    "Asthma_1",
+    "ChronicKidneyDisease"
+  ],
+  "Lisinopril Consultation": [
+    "Anxiety_2",
+    "Hypothyroidism_5"
+  ],
+  "Albuterol Consultation": [
+    "MacularDegeneration_5",
+    "Obesity_3"
+  ],
+  "Fluticasone Consultation": [
+    "AtrialFibrillation_4"
+  ],
+  "Sumatriptan Consultation": [
+    "COPD_2",
+    "COPD_6"
+  ],
+  "Hydrocortisone Consultation": [
+    "Anxiety",
+    "Eczema_2",
+    "Insomnia_1"
+  ],
+  "Methotrexate Consultation": [
+    "Psoriasis_2",
+    "Hypothyroidism_4",
+    "COPD_6"
+  ],
+  "Ibuprofen Consultation": [
+    "RheumatoidArthritis_5",
+    "Type2Diabetes_3"
+  ],
+  "Omeprazole Consultation": [
+    "Gout_5",
+    "MacularDegeneration_6"
+  ],
+  "Loperamide Consultation": [
+    "Gout_4",
+    "Hypothyroidism_4"
+  ],
+  "Furosemide Consultation": [
+    "Obesity_6",
+    "Anemia_7",
+    "Type2Diabetes_2"
+  ],
+  "Levothyroxine Consultation": [
+    "Hypertension_1",
+    "Obesity_6"
+  ],
+  "Methimazole Consultation": [
+    "Anxiety_2",
+    "Hyperthyroidism_2",
+    "Migraine_1"
+  ],
+  "Sertraline Consultation": [
+    "Eczema_4",
+    "Hyperthyroidism_5",
+    "Anxiety"
+  ],
+  "Escitalopram Consultation": [
+    "Type2Diabetes_4",
+    "GERD_2"
+  ],
+  "Zolpidem Consultation": [
+    "Gout_6"
+  ],
+  "Amiodarone Consultation": [
+    "HeartFailure_4",
+    "ChronicKidneyDisease"
+  ],
+  "Bisoprolol Consultation": [
+    "COPD_5"
+  ],
+  "FerrousSulfate Consultation": [
+    "Sinusitis_5",
+    "IBS"
+  ],
+  "Nitrofurantoin Consultation": [
+    "Eczema_2",
+    "Hypothyroidism_1",
+    "AtrialFibrillation_4"
+  ],
+  "Amoxicillin Consultation": [
+    "Osteoporosis_3",
+    "ChronicKidneyDisease_7"
+  ],
+  "Azithromycin Consultation": [
+    "COPD_1",
+    "COPD_6",
+    "Osteoarthritis"
+  ],
+  "Cetirizine Consultation": [
+    "ChronicKidneyDisease_1",
+    "Anxiety_4",
+    "Sinusitis_6"
+  ],
+  "Orlistat Consultation": [
+    "Hypertension_2",
+    "Bronchitis_2"
+  ],
+  "Alendronate Consultation": [
+    "Osteoarthritis_1"
+  ],
+  "Latanoprost Consultation": [
+    "Bronchitis_7",
+    "Obesity_5"
+  ],
+  "Ranibizumab Consultation": [
+    "Type2Diabetes_6",
+    "Psoriasis_2",
+    "COPD_2"
+  ],
+  "Allopurinol Consultation": [
+    "Asthma_6"
+  ],
+  "Insulin Consultation": [
+    "Migraine_5",
+    "GERD_4"
+  ],
+  "Atorvastatin Consultation": [
+    "COPD_3",
+    "Obesity_5"
+  ],
+  "Metformin Management Program": [
+    "Obesity_5",
+    "Eczema_5"
+  ],
+  "Lisinopril Management Program": [
+    "AtrialFibrillation_2"
+  ],
+  "Albuterol Management Program": [
+    "Obesity_3",
+    "Depression_2",
+    "Allergy_3"
+  ],
+  "Fluticasone Management Program": [
+    "Hypothyroidism_1"
+  ],
+  "Sumatriptan Management Program": [
+    "GERD_6",
+    "UrinaryTractInfection_5"
+  ],
+  "Hydrocortisone Management Program": [
+    "AtrialFibrillation_4",
+    "Pneumonia"
+  ],
+  "Methotrexate Management Program": [
+    "ChronicKidneyDisease_5",
+    "Depression_1"
+  ],
+  "Ibuprofen Management Program": [
+    "Gout_2",
+    "Allergy_3",
+    "GERD_5"
+  ],
+  "Omeprazole Management Program": [
+    "Anxiety_4",
+    "UrinaryTractInfection_3"
+  ],
+  "Loperamide Management Program": [
+    "HeartFailure_4",
+    "Glaucoma_1",
+    "Anxiety_5"
+  ],
+  "Furosemide Management Program": [
+    "Osteoporosis_4",
+    "HeartFailure_4"
+  ],
+  "Levothyroxine Management Program": [
+    "Hypothyroidism_2"
+  ],
+  "Methimazole Management Program": [
+    "COPD_6",
+    "Insomnia_6",
+    "Hyperthyroidism_7"
+  ],
+  "Sertraline Management Program": [
+    "RheumatoidArthritis_6",
+    "Insomnia_2"
+  ],
+  "Escitalopram Management Program": [
+    "MacularDegeneration_3",
+    "Obesity_3",
+    "Osteoporosis_2"
+  ],
+  "Zolpidem Management Program": [
+    "GERD_5",
+    "Anxiety_2"
+  ],
+  "Amiodarone Management Program": [
+    "Gout_2",
+    "Hypertension_5"
+  ],
+  "Bisoprolol Management Program": [
+    "Bronchitis_1"
+  ],
+  "FerrousSulfate Management Program": [
+    "UrinaryTractInfection_5",
+    "Depression_5"
+  ],
+  "Nitrofurantoin Management Program": [
+    "Hypothyroidism_1"
+  ],
+  "Amoxicillin Management Program": [
+    "ChronicKidneyDisease_2",
+    "IBS_1"
+  ],
+  "Azithromycin Management Program": [
+    "Osteoarthritis_1",
+    "Type2Diabetes_2"
+  ],
+  "Cetirizine Management Program": [
+    "Migraine_6",
+    "ChronicKidneyDisease",
+    "RheumatoidArthritis_2"
+  ],
+  "Orlistat Management Program": [
+    "UrinaryTractInfection_6",
+    "Hyperthyroidism_3"
+  ],
+  "Alendronate Management Program": [
+    "Osteoporosis_2",
+    "ChronicKidneyDisease_6"
+  ],
+  "Latanoprost Management Program": [
+    "Allergy_1",
+    "Anxiety_4",
+    "Depression_3"
+  ],
+  "Ranibizumab Management Program": [
+    "Pneumonia_4",
+    "Anxiety_1",
+    "Bronchitis_2"
+  ],
+  "Allopurinol Management Program": [
+    "Allergy_2",
+    "Osteoporosis"
+  ],
+  "Insulin Management Program": [
+    "GERD"
+  ],
+  "Atorvastatin Management Program": [
+    "Anxiety_4",
+    "Sinusitis_5",
+    "IBS_5"
+  ],
+  "Metformin Rehabilitation Service": [
+    "Glaucoma",
+    "Anxiety_3",
+    "Glaucoma_5"
+  ],
+  "Lisinopril Rehabilitation Service": [
+    "MacularDegeneration_6",
+    "Glaucoma_5",
+    "Pneumonia_6"
+  ],
+  "Albuterol Rehabilitation Service": [
+    "Bronchitis_4"
+  ],
+  "Fluticasone Rehabilitation Service": [
+    "Glaucoma_2",
+    "HeartFailure_4",
+    "COPD_5"
+  ],
+  "Sumatriptan Rehabilitation Service": [
+    "Obesity_1",
+    "Hypothyroidism",
+    "Glaucoma_4"
+  ],
+  "Hydrocortisone Rehabilitation Service": [
+    "Depression_4",
+    "Hyperthyroidism_3",
+    "Hyperthyroidism_6"
+  ],
+  "Methotrexate Rehabilitation Service": [
+    "UrinaryTractInfection_6",
+    "Depression_3",
+    "HeartFailure_1"
+  ],
+  "Ibuprofen Rehabilitation Service": [
+    "Migraine_2",
+    "COPD",
+    "RheumatoidArthritis"
+  ],
+  "Omeprazole Rehabilitation Service": [
+    "ChronicKidneyDisease"
+  ],
+  "Loperamide Rehabilitation Service": [
+    "HeartFailure_5",
+    "Psoriasis_4"
+  ],
+  "Furosemide Rehabilitation Service": [
+    "Osteoporosis_6",
+    "HeartFailure",
+    "Osteoporosis"
+  ],
+  "Levothyroxine Rehabilitation Service": [
+    "GERD_6",
+    "Hypertension_3",
+    "Anemia_7"
+  ],
+  "Methimazole Rehabilitation Service": [
+    "Osteoporosis_7"
+  ],
+  "Sertraline Rehabilitation Service": [
+    "Osteoarthritis"
+  ],
+  "Escitalopram Rehabilitation Service": [
+    "ChronicKidneyDisease_3",
+    "HeartFailure_1",
+    "Asthma_1"
+  ],
+  "Zolpidem Rehabilitation Service": [
+    "Type2Diabetes_4",
+    "Anxiety_3",
+    "Migraine_5"
+  ],
+  "Amiodarone Rehabilitation Service": [
+    "Depression_4",
+    "Sinusitis_2"
+  ],
+  "Bisoprolol Rehabilitation Service": [
+    "AtrialFibrillation_4",
+    "Allergy_2"
+  ],
+  "FerrousSulfate Rehabilitation Service": [
+    "Psoriasis_5",
+    "Anxiety_2"
+  ],
+  "Nitrofurantoin Rehabilitation Service": [
+    "IBS_3",
+    "Osteoarthritis_3"
+  ],
+  "Amoxicillin Rehabilitation Service": [
+    "Bronchitis",
+    "Gout_4",
+    "Bronchitis_1"
+  ],
+  "Azithromycin Rehabilitation Service": [
+    "Anemia_7",
+    "GERD_2",
+    "MacularDegeneration_4"
+  ],
+  "Cetirizine Rehabilitation Service": [
+    "Psoriasis_1"
+  ],
+  "Orlistat Rehabilitation Service": [
+    "Type2Diabetes_6",
+    "Hypertension_2"
+  ],
+  "Alendronate Rehabilitation Service": [
+    "Allergy_2",
+    "Migraine_6",
+    "Osteoporosis_4"
+  ],
+  "Latanoprost Rehabilitation Service": [
+    "Insomnia_5",
+    "Hypertension_2",
+    "Depression"
+  ],
+  "Ranibizumab Rehabilitation Service": [
+    "Anemia_1",
+    "Hypothyroidism_6"
+  ],
+  "Allopurinol Rehabilitation Service": [
+    "Hyperthyroidism_3",
+    "Pneumonia",
+    "HeartFailure_2"
+  ],
+  "Insulin Rehabilitation Service": [
+    "Gout"
+  ],
+  "Atorvastatin Rehabilitation Service": [
+    "Type2Diabetes_4",
+    "Depression_4",
+    "Allergy"
+  ],
+  "Metformin Screening Service": [
+    "GERD_6",
+    "Gout",
+    "AtrialFibrillation_4"
+  ],
+  "Lisinopril Screening Service": [
+    "Obesity_3",
+    "Hypertension_5"
+  ],
+  "Albuterol Screening Service": [
+    "HeartFailure"
+  ],
+  "Fluticasone Screening Service": [
+    "Migraine_2",
+    "Osteoarthritis_5"
+  ],
+  "Sumatriptan Screening Service": [
+    "HeartFailure_1",
+    "Migraine_2"
+  ],
+  "Hydrocortisone Screening Service": [
+    "Hyperthyroidism_5",
+    "Anemia_7"
+  ],
+  "Methotrexate Screening Service": [
+    "MacularDegeneration_1"
+  ],
+  "Ibuprofen Screening Service": [
+    "COPD"
+  ],
+  "Omeprazole Screening Service": [
+    "ChronicKidneyDisease_5"
+  ],
+  "Loperamide Screening Service": [
+    "Type2Diabetes_2"
+  ],
+  "Furosemide Screening Service": [
+    "HeartFailure_2"
+  ],
+  "Levothyroxine Screening Service": [
+    "RheumatoidArthritis_1",
+    "Migraine_1",
+    "Asthma_4"
+  ],
+  "Methimazole Screening Service": [
+    "MacularDegeneration_5",
+    "Bronchitis",
+    "Eczema_3"
+  ],
+  "Sertraline Screening Service": [
+    "UrinaryTractInfection_3"
+  ],
+  "Escitalopram Screening Service": [
+    "Hypothyroidism"
+  ],
+  "Zolpidem Screening Service": [
+    "IBS_3",
+    "Type2Diabetes",
+    "Bronchitis"
+  ],
+  "Amiodarone Screening Service": [
+    "Osteoarthritis",
+    "AtrialFibrillation_2",
+    "Bronchitis_4"
+  ],
+  "Bisoprolol Screening Service": [
+    "Glaucoma_4"
+  ],
+  "FerrousSulfate Screening Service": [
+    "GERD_3",
+    "GERD_6"
+  ],
+  "Nitrofurantoin Screening Service": [
+    "ChronicKidneyDisease_4"
+  ],
+  "Amoxicillin Screening Service": [
+    "COPD_6",
+    "Hyperthyroidism"
+  ],
+  "Azithromycin Screening Service": [
+    "HeartFailure_5",
+    "Psoriasis_1"
+  ],
+  "Cetirizine Screening Service": [
+    "Osteoarthritis_5",
+    "COPD_1",
+    "Hypertension_3"
+  ],
+  "Orlistat Screening Service": [
+    "Osteoporosis_1",
+    "Migraine_1",
+    "Hypothyroidism_5"
+  ],
+  "Alendronate Screening Service": [
+    "AtrialFibrillation_3"
+  ],
+  "Latanoprost Screening Service": [
+    "Hypothyroidism_5"
+  ],
+  "Ranibizumab Screening Service": [
+    "Hypertension_4",
+    "Bronchitis_6",
+    "Anemia_1"
+  ],
+  "Allopurinol Screening Service": [
+    "Glaucoma_3",
+    "Hypothyroidism_2"
+  ],
+  "Insulin Screening Service": [
+    "ChronicKidneyDisease_1",
+    "Asthma_6"
+  ],
+  "Atorvastatin Screening Service": [
+    "ChronicKidneyDisease_2",
+    "Psoriasis_5",
+    "Osteoarthritis_4"
+  ],
+  "Metformin Counseling Service": [
+    "Anemia_4",
+    "IBS_6",
+    "Hypertension_5"
+  ],
+  "Lisinopril Counseling Service": [
+    "Insomnia_3"
+  ],
+  "Albuterol Counseling Service": [
+    "Sinusitis_1",
+    "GERD_6"
+  ],
+  "Fluticasone Counseling Service": [
+    "Hyperthyroidism_5",
+    "Psoriasis_4"
+  ],
+  "Sumatriptan Counseling Service": [
+    "Psoriasis_5"
+  ],
+  "Hydrocortisone Counseling Service": [
+    "Bronchitis_6",
+    "AtrialFibrillation_2"
+  ],
+  "Methotrexate Counseling Service": [
+    "Anemia_6",
+    "MacularDegeneration_6",
+    "Depression"
+  ],
+  "Ibuprofen Counseling Service": [
+    "GERD",
+    "Migraine_4",
+    "Depression_3"
+  ],
+  "Omeprazole Counseling Service": [
+    "HeartFailure_6",
+    "Anxiety_7"
+  ],
+  "Loperamide Counseling Service": [
+    "Gout_4",
+    "Eczema_1",
+    "COPD_3"
+  ],
+  "Furosemide Counseling Service": [
+    "GERD_3"
+  ],
+  "Levothyroxine Counseling Service": [
+    "Eczema",
+    "Glaucoma_1"
+  ],
+  "Methimazole Counseling Service": [
+    "Bronchitis_2"
+  ],
+  "Sertraline Counseling Service": [
+    "Osteoporosis_6"
+  ],
+  "Escitalopram Counseling Service": [
+    "UrinaryTractInfection"
+  ],
+  "Zolpidem Counseling Service": [
+    "ChronicKidneyDisease_3",
+    "Eczema_6",
+    "Migraine_6"
+  ],
+  "Amiodarone Counseling Service": [
+    "Osteoarthritis_2"
+  ],
+  "Bisoprolol Counseling Service": [
+    "Glaucoma_1"
+  ],
+  "FerrousSulfate Counseling Service": [
+    "Hypothyroidism_3"
+  ],
+  "Nitrofurantoin Counseling Service": [
+    "GERD_5",
+    "Hypertension_1"
+  ],
+  "Amoxicillin Counseling Service": [
+    "Osteoporosis",
+    "Type2Diabetes_3"
+  ],
+  "Azithromycin Counseling Service": [
+    "Anemia_2",
+    "Osteoarthritis_1"
+  ],
+  "Cetirizine Counseling Service": [
+    "Anxiety",
+    "IBS_2",
+    "AtrialFibrillation_4"
+  ],
+  "Orlistat Counseling Service": [
+    "Hypothyroidism_5"
+  ],
+  "Alendronate Counseling Service": [
+    "Bronchitis_7",
+    "Bronchitis_5",
+    "Hypertension_2"
+  ],
+  "Latanoprost Counseling Service": [
+    "Eczema_5",
+    "Asthma_5"
+  ],
+  "Ranibizumab Counseling Service": [
+    "Obesity_6",
+    "COPD_4"
+  ],
+  "Allopurinol Counseling Service": [
+    "UrinaryTractInfection_6",
+    "Hypothyroidism"
+  ],
+  "Insulin Counseling Service": [
+    "Type2Diabetes_5"
+  ],
+  "Atorvastatin Counseling Service": [
+    "COPD_5"
+  ],
+  "Metformin Therapy": [
+    "Type2Diabetes"
+  ],
+  "Lisinopril Therapy": [
+    "Osteoporosis_4"
+  ],
+  "Albuterol Therapy": [
+    "MacularDegeneration_6",
+    "Anemia_6",
+    "Pneumonia_2"
+  ],
+  "Fluticasone Therapy": [
+    "Pneumonia_4",
+    "Eczema_6"
+  ],
+  "Sumatriptan Therapy": [
+    "Insomnia_2",
+    "Asthma_1",
+    "Anemia"
+  ],
+  "Hydrocortisone Therapy": [
+    "Hypertension_3",
+    "Glaucoma_3",
+    "Obesity"
+  ],
+  "Methotrexate Therapy": [
+    "Hypertension_2",
+    "Depression_4"
+  ],
+  "Ibuprofen Therapy": [
+    "Psoriasis_6",
+    "Osteoarthritis_4"
+  ],
+  "Omeprazole Therapy": [
+    "Migraine_5",
+    "IBS_4"
+  ],
+  "Loperamide Therapy": [
+    "Type2Diabetes_3",
+    "Hypothyroidism_4",
+    "Osteoarthritis_2"
+  ],
+  "Furosemide Therapy": [
+    "Psoriasis_6",
+    "Allergy_5",
+    "AtrialFibrillation_2"
+  ],
+  "Levothyroxine Therapy": [
+    "Obesity_2"
+  ],
+  "Methimazole Therapy": [
+    "Eczema_3",
+    "GERD_5"
+  ],
+  "Sertraline Therapy": [
+    "AtrialFibrillation_6"
+  ],
+  "Escitalopram Therapy": [
+    "Depression_2"
+  ],
+  "Zolpidem Therapy": [
+    "Anemia_2",
+    "Psoriasis_3"
+  ],
+  "Amiodarone Therapy": [
+    "Psoriasis_3"
+  ],
+  "Bisoprolol Therapy": [
+    "Depression_4",
+    "Eczema"
+  ],
+  "FerrousSulfate Therapy": [
+    "Hyperthyroidism_6",
+    "Insomnia_4"
+  ],
+  "Nitrofurantoin Therapy": [
+    "Allergy_5",
+    "Osteoporosis_1",
+    "Migraine_1"
+  ],
+  "Amoxicillin Therapy": [
+    "Osteoarthritis_5"
+  ],
+  "Azithromycin Therapy": [
+    "Sinusitis"
+  ],
+  "Cetirizine Therapy": [
+    "GERD_6",
+    "Asthma_2",
+    "Psoriasis"
+  ],
+  "Orlistat Therapy": [
+    "MacularDegeneration_5",
+    "Anemia_1"
+  ],
+  "Alendronate Therapy": [
+    "Obesity_4",
+    "Sinusitis",
+    "Migraine_1"
+  ],
+  "Latanoprost Therapy": [
+    "IBS_2",
+    "Pneumonia_1",
+    "HeartFailure"
+  ],
+  "Ranibizumab Therapy": [
+    "Pneumonia",
+    "Migraine"
+  ],
+  "Allopurinol Therapy": [
+    "UrinaryTractInfection_5",
+    "RheumatoidArthritis_3",
+    "Hyperthyroidism_5"
+  ],
+  "Insulin Therapy": [
+    "Pneumonia_6"
+  ],
+  "Atorvastatin Therapy": [
+    "UrinaryTractInfection_3",
+    "RheumatoidArthritis",
+    "Sinusitis_3"
+  ]
+}

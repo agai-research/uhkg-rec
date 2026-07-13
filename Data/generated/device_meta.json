@@ -1,0 +1,122 @@
+{
+  "Pulse Oximeter": {
+    "cost": 334.76
+  },
+  "ECG Monitor": {
+    "cost": 47.03
+  },
+  "Smartwatch": {
+    "cost": 372.34
+  },
+  "Smart Bed": {
+    "cost": 137.31
+  },
+  "CGM": {
+    "cost": 51.11
+  },
+  "Air Quality Sensor": {
+    "cost": 143.8
+  },
+  "Thermal Camera": {
+    "cost": 368.73
+  },
+  "Defibrillator": {
+    "cost": 114.53
+  },
+  "Blood Pressure Cuff": {
+    "cost": 373.82
+  },
+  "Spirometer": {
+    "cost": 488.23
+  },
+  "Sleep Tracker": {
+    "cost": 254.57
+  },
+  "Insulin Pump": {
+    "cost": 200.54
+  },
+  "Fall Detector": {
+    "cost": 247.32
+  },
+  "Smart Inhaler": {
+    "cost": 346.59
+  },
+  "UV Exposure Sensor": {
+    "cost": 386.98
+  },
+  "Hydration Sensor": {
+    "cost": 314.23
+  },
+  "Pulse Oximeter-B": {
+    "cost": 326.74
+  },
+  "ECG Monitor-B": {
+    "cost": 52.57
+  },
+  "Smartwatch-B": {
+    "cost": 86.5
+  },
+  "Smart Bed-B": {
+    "cost": 138.16
+  },
+  "CGM-B": {
+    "cost": 375.46
+  },
+  "Air Quality Sensor-B": {
+    "cost": 162.64
+  },
+  "Thermal Camera-B": {
+    "cost": 290.36
+  },
+  "Defibrillator-B": {
+    "cost": 21.05
+  },
+  "Blood Pressure Cuff-B": {
+    "cost": 44.42
+  },
+  "Spirometer-B": {
+    "cost": 145.35
+  },
+  "Sleep Tracker-B": {
+    "cost": 340.92
+  },
+  "Insulin Pump-B": {
+    "cost": 350.71
+  },
+  "Fall Detector-B": {
+    "cost": 342.72
+  },
+  "Smart Inhaler-B": {
+    "cost": 156.07
+  },
+  "UV Exposure Sensor-B": {
+    "cost": 265.52
+  },
+  "Hydration Sensor-B": {
+    "cost": 240.36
+  },
+  "Pulse Oximeter-C": {
+    "cost": 241.17
+  },
+  "ECG Monitor-C": {
+    "cost": 72.47
+  },
+  "Smartwatch-C": {
+    "cost": 448.43
+  },
+  "Smart Bed-C": {
+    "cost": 111.64
+  },
+  "CGM-C": {
+    "cost": 489.39
+  },
+  "Air Quality Sensor-C": {
+    "cost": 469.08
+  },
+  "Thermal Camera-C": {
+    "cost": 23.49
+  },
+  "Defibrillator-C": {
+    "cost": 237.6
+  }
+}

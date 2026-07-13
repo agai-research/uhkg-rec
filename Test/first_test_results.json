@@ -1,0 +1,109 @@
+[
+  {
+    "query": {
+      "symptoms": [
+        "Fatigue",
+        "Headache"
+      ],
+      "active_constraints": [],
+      "k": 5,
+      "theta": 0.7,
+      "variant": "UHKG-Rec"
+    },
+    "variant": "UHKG-Rec",
+    "theta": 0.7,
+    "requirement_patterns": [],
+    "matched_service_patterns": [],
+    "recommendation": []
+  },
+  {
+    "query": {
+      "symptoms": [
+        "Cough",
+        "ShortnessOfBreath"
+      ],
+      "active_constraints": [],
+      "k": 3,
+      "theta": 0.6,
+      "variant": "UHKG-Rec"
+    },
+    "variant": "UHKG-Rec",
+    "theta": 0.6,
+    "requirement_patterns": [
+      "RP::RP_0"
+    ],
+    "matched_service_patterns": [
+      "SP::SP_1"
+    ],
+    "recommendation": [
+      {
+        "matched_pattern": "SP::SP_1",
+        "recommended_services": [
+          {
+            "service": "Omeprazole Counseling Service",
+            "score": 20.48
+          },
+          {
+            "service": "Ibuprofen Counseling Service",
+            "score": 22.94
+          },
+          {
+            "service": "FerrousSulfate Consultation",
+            "score": 29.15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "query": {
+      "symptoms": [
+        "JointPain"
+      ],
+      "active_constraints": [],
+      "k": 5,
+      "theta": 0.7,
+      "variant": "UHKG-Rec_NM"
+    },
+    "variant": "UHKG-Rec_NM",
+    "theta": 0.7,
+    "requirement_patterns": [],
+    "matched_service_patterns": [],
+    "recommendation": [
+      {
+        "matched_pattern": "direct",
+        "recommended_services": [
+          {
+            "service": "Amoxicillin Counseling Service",
+            "score": 300.94
+          },
+          {
+            "service": "Loperamide Therapy",
+            "score": 321.19
+          },
+          {
+            "service": "Ibuprofen Consultation",
+            "score": 485.1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "query": {
+      "symptoms": [
+        "Nausea",
+        "Dizziness"
+      ],
+      "active_constraints": [],
+      "k": 5,
+      "theta": 0.7,
+      "variant": "HKG-Rec"
+    },
+    "variant": "HKG-Rec",
+    "theta": 0.7,
+    "requirement_patterns": [],
+    "matched_service_patterns": [],
+    "recommendation": []
+  }
+]

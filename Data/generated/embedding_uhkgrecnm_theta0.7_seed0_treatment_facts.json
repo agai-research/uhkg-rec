@@ -1,0 +1,1202 @@
+[
+  {
+    "service": "H::Metformin",
+    "predicted_pattern": "SP::SP_5",
+    "confidence": 0.05770000841294543
+  },
+  {
+    "service": "H::Lisinopril",
+    "predicted_pattern": "SP::SP_2",
+    "confidence": 0.07775206741350481
+  },
+  {
+    "service": "H::Albuterol",
+    "predicted_pattern": "SP::SP_21",
+    "confidence": 0.07135295812487812
+  },
+  {
+    "service": "H::Fluticasone",
+    "predicted_pattern": "SP::SP_21",
+    "confidence": 0.07389715019222391
+  },
+  {
+    "service": "H::Sumatriptan",
+    "predicted_pattern": "SP::SP_12",
+    "confidence": 0.06419718084080461
+  },
+  {
+    "service": "H::Hydrocortisone",
+    "predicted_pattern": "SP::SP_11",
+    "confidence": 0.04954490309401005
+  },
+  {
+    "service": "H::Methotrexate",
+    "predicted_pattern": "SP::SP_8",
+    "confidence": 0.07351768319303972
+  },
+  {
+    "service": "H::Ibuprofen",
+    "predicted_pattern": "SP::SP_7",
+    "confidence": 0.051021997638480844
+  },
+  {
+    "service": "H::Omeprazole",
+    "predicted_pattern": "SP::SP_7",
+    "confidence": 0.04629196681420666
+  },
+  {
+    "service": "H::Loperamide",
+    "predicted_pattern": "SP::SP_23",
+    "confidence": 0.06460655628127554
+  },
+  {
+    "service": "H::Furosemide",
+    "predicted_pattern": "SP::SP_5",
+    "confidence": 0.09037176299530876
+  },
+  {
+    "service": "H::Levothyroxine",
+    "predicted_pattern": "SP::SP_24",
+    "confidence": 0.0498674392258895
+  },
+  {
+    "service": "H::Methimazole",
+    "predicted_pattern": "SP::SP_2",
+    "confidence": 0.07859079386439548
+  },
+  {
+    "service": "H::Sertraline",
+    "predicted_pattern": "SP::SP_14",
+    "confidence": 0.07280384790121314
+  },
+  {
+    "service": "H::Escitalopram",
+    "predicted_pattern": "SP::SP_21",
+    "confidence": 0.08000561469034062
+  },
+  {
+    "service": "H::Zolpidem",
+    "predicted_pattern": "SP::SP_18",
+    "confidence": 0.05615507689397609
+  },
+  {
+    "service": "H::Amiodarone",
+    "predicted_pattern": "SP::SP_10",
+    "confidence": 0.06611542707348723
+  },
+  {
+    "service": "H::Bisoprolol",
+    "predicted_pattern": "SP::SP_19",
+    "confidence": 0.04776387327416741
+  },
+  {
+    "service": "H::FerrousSulfate",
+    "predicted_pattern": "SP::SP_15",
+    "confidence": 0.048413738823445455
+  },
+  {
+    "service": "H::Nitrofurantoin",
+    "predicted_pattern": "SP::SP_16",
+    "confidence": 0.06079633838491909
+  },
+  {
+    "service": "H::Amoxicillin",
+    "predicted_pattern": "SP::SP_0",
+    "confidence": 0.08909895298435294
+  },
+  {
+    "service": "H::Azithromycin",
+    "predicted_pattern": "SP::SP_5",
+    "confidence": 0.04812161174163147
+  },
+  {
+    "service": "H::Cetirizine",
+    "predicted_pattern": "SP::SP_12",
+    "confidence": 0.04763088625851903
+  },
+  {
+    "service": "H::Orlistat",
+    "predicted_pattern": "SP::SP_1",
+    "confidence": 0.04606287890247006
+  },
+  {
+    "service": "H::Alendronate",
+    "predicted_pattern": "SP::SP_15",
+    "confidence": 0.06830452922943141
+  },
+  {
+    "service": "H::Latanoprost",
+    "predicted_pattern": "SP::SP_15",
+    "confidence": 0.08446740258228945
+  },
+  {
+    "service": "H::Ranibizumab",
+    "predicted_pattern": "SP::SP_6",
+    "confidence": 0.07927057036594898
+  },
+  {
+    "service": "H::Allopurinol",
+    "predicted_pattern": "SP::SP_21",
+    "confidence": 0.0788523122668984
+  },
+  {
+    "service": "H::Insulin",
+    "predicted_pattern": "SP::SP_6",
+    "confidence": 0.06219516040327224
+  },
+  {
+    "service": "H::Atorvastatin",
+    "predicted_pattern": "SP::SP_5",
+    "confidence": 0.05113285783999408
+  },
+  {
+    "service": "H::Metformin Monitoring Service",
+    "predicted_pattern": "SP::SP_5",
+    "confidence": 0.0506231749341858
+  },
+  {
+    "service": "H::Lisinopril Monitoring Service",
+    "predicted_pattern": "SP::SP_3",
+    "confidence": 0.04591045481636652
+  },
+  {
+    "service": "H::Albuterol Monitoring Service",
+    "predicted_pattern": "SP::SP_2",
+    "confidence": 0.07814200395838564
+  },
+  {
+    "service": "H::Fluticasone Monitoring Service",
+    "predicted_pattern": "SP::SP_21",
+    "confidence": 0.06030463502323534
+  },
+  {
+    "service": "H::Sumatriptan Monitoring Service",
+    "predicted_pattern": "SP::SP_9",
+    "confidence": 0.046804416369232646
+  },
+  {
+    "service": "H::Hydrocortisone Monitoring Service",
+    "predicted_pattern": "SP::SP_12",
+    "confidence": 0.05108325348236751
+  },
+  {
+    "service": "H::Methotrexate Monitoring Service",
+    "predicted_pattern": "SP::SP_4",
+    "confidence": 0.045716102705363734
+  },
+  {
+    "service": "H::Ibuprofen Monitoring Service",
+    "predicted_pattern": "SP::SP_21",
+    "confidence": 0.07656722554046637
+  },
+  {
+    "service": "H::Omeprazole Monitoring Service",
+    "predicted_pattern": "SP::SP_5",
+    "confidence": 0.08986422572125996
+  },
+  {
+    "service": "H::Loperamide Monitoring Service",
+    "predicted_pattern": "SP::SP_2",
+    "confidence": 0.04926978739405493
+  },
+  {
+    "service": "H::Furosemide Monitoring Service",
+    "predicted_pattern": "SP::SP_18",
+    "confidence": 0.06536540654036749
+  },
+  {
+    "service": "H::Levothyroxine Monitoring Service",
+    "predicted_pattern": "SP::SP_5",
+    "confidence": 0.06356873321756416
+  },
+  {
+    "service": "H::Methimazole Monitoring Service",
+    "predicted_pattern": "SP::SP_21",
+    "confidence": 0.061518001943546764
+  },
+  {
+    "service": "H::Sertraline Monitoring Service",
+    "predicted_pattern": "SP::SP_10",
+    "confidence": 0.06136260200832666
+  },
+  {
+    "service": "H::Escitalopram Monitoring Service",
+    "predicted_pattern": "SP::SP_5",
+    "confidence": 0.0695584429246398
+  },
+  {
+    "service": "H::Zolpidem Monitoring Service",
+    "predicted_pattern": "SP::SP_24",
+    "confidence": 0.06516947137298372
+  },
+  {
+    "service": "H::Amiodarone Monitoring Service",
+    "predicted_pattern": "SP::SP_14",
+    "confidence": 0.08512129356928642
+  },
+  {
+    "service": "H::Bisoprolol Monitoring Service",
+    "predicted_pattern": "SP::SP_10",
+    "confidence": 0.08842350546160194
+  },
+  {
+    "service": "H::FerrousSulfate Monitoring Service",
+    "predicted_pattern": "SP::SP_17",
+    "confidence": 0.059773609892487665
+  },
+  {
+    "service": "H::Nitrofurantoin Monitoring Service",
+    "predicted_pattern": "SP::SP_5",
+    "confidence": 0.07385896045658999
+  },
+  {
+    "service": "H::Amoxicillin Monitoring Service",
+    "predicted_pattern": "SP::SP_0",
+    "confidence": 0.06847934679909791
+  },
+  {
+    "service": "H::Azithromycin Monitoring Service",
+    "predicted_pattern": "SP::SP_22",
+    "confidence": 0.08207165161983183
+  },
+  {
+    "service": "H::Cetirizine Monitoring Service",
+    "predicted_pattern": "SP::SP_7",
+    "confidence": 0.059333058486822736
+  },
+  {
+    "service": "H::Orlistat Monitoring Service",
+    "predicted_pattern": "SP::SP_4",
+    "confidence": 0.05173762998453377
+  },
+  {
+    "service": "H::Alendronate Monitoring Service",
+    "predicted_pattern": "SP::SP_0",
+    "confidence": 0.0688438273639036
+  },
+  {
+    "service": "H::Latanoprost Monitoring Service",
+    "predicted_pattern": "SP::SP_10",
+    "confidence": 0.09985719810088328
+  },
+  {
+    "service": "H::Ranibizumab Monitoring Service",
+    "predicted_pattern": "SP::SP_5",
+    "confidence": 0.07320491019967253
+  },
+  {
+    "service": "H::Allopurinol Monitoring Service",
+    "predicted_pattern": "SP::SP_9",
+    "confidence": 0.05213256470036575
+  },
+  {
+    "service": "H::Insulin Monitoring Service",
+    "predicted_pattern": "SP::SP_0",
+    "confidence": 0.07507368639723785
+  },
+  {
+    "service": "H::Atorvastatin Monitoring Service",
+    "predicted_pattern": "SP::SP_15",
+    "confidence": 0.04953041488807042
+  },
+  {
+    "service": "H::Metformin Consultation",
+    "predicted_pattern": "SP::SP_23",
+    "confidence": 0.04705517642610686
+  },
+  {
+    "service": "H::Lisinopril Consultation",
+    "predicted_pattern": "SP::SP_2",
+    "confidence": 0.08260805479013279
+  },
+  {
+    "service": "H::Albuterol Consultation",
+    "predicted_pattern": "SP::SP_19",
+    "confidence": 0.04964909038390355
+  },
+  {
+    "service": "H::Fluticasone Consultation",
+    "predicted_pattern": "SP::SP_5",
+    "confidence": 0.05630509161008222
+  },
+  {
+    "service": "H::Sumatriptan Consultation",
+    "predicted_pattern": "SP::SP_5",
+    "confidence": 0.0554023163325407
+  },
+  {
+    "service": "H::Hydrocortisone Consultation",
+    "predicted_pattern": "SP::SP_0",
+    "confidence": 0.0764624692809509
+  },
+  {
+    "service": "H::Methotrexate Consultation",
+    "predicted_pattern": "SP::SP_11",
+    "confidence": 0.05097859579693732
+  },
+  {
+    "service": "H::Ibuprofen Consultation",
+    "predicted_pattern": "SP::SP_6",
+    "confidence": 0.07873767582487338
+  },
+  {
+    "service": "H::Omeprazole Consultation",
+    "predicted_pattern": "SP::SP_19",
+    "confidence": 0.05206290839036454
+  },
+  {
+    "service": "H::Loperamide Consultation",
+    "predicted_pattern": "SP::SP_0",
+    "confidence": 0.06127374380283181
+  },
+  {
+    "service": "H::Furosemide Consultation",
+    "predicted_pattern": "SP::SP_0",
+    "confidence": 0.07728045889583121
+  },
+  {
+    "service": "H::Levothyroxine Consultation",
+    "predicted_pattern": "SP::SP_8",
+    "confidence": 0.04800179019179158
+  },
+  {
+    "service": "H::Methimazole Consultation",
+    "predicted_pattern": "SP::SP_5",
+    "confidence": 0.07773431024717174
+  },
+  {
+    "service": "H::Sertraline Consultation",
+    "predicted_pattern": "SP::SP_24",
+    "confidence": 0.0454150896622444
+  },
+  {
+    "service": "H::Escitalopram Consultation",
+    "predicted_pattern": "SP::SP_5",
+    "confidence": 0.05660633224200625
+  },
+  {
+    "service": "H::Zolpidem Consultation",
+    "predicted_pattern": "SP::SP_0",
+    "confidence": 0.09851802178652097
+  },
+  {
+    "service": "H::Amiodarone Consultation",
+    "predicted_pattern": "SP::SP_2",
+    "confidence": 0.0483034536099087
+  },
+  {
+    "service": "H::Bisoprolol Consultation",
+    "predicted_pattern": "SP::SP_6",
+    "confidence": 0.055082212306856906
+  },
+  {
+    "service": "H::FerrousSulfate Consultation",
+    "predicted_pattern": "SP::SP_15",
+    "confidence": 0.04780922558346297
+  },
+  {
+    "service": "H::Nitrofurantoin Consultation",
+    "predicted_pattern": "SP::SP_5",
+    "confidence": 0.11164003195524544
+  },
+  {
+    "service": "H::Amoxicillin Consultation",
+    "predicted_pattern": "SP::SP_6",
+    "confidence": 0.05341799002837025
+  },
+  {
+    "service": "H::Azithromycin Consultation",
+    "predicted_pattern": "SP::SP_6",
+    "confidence": 0.06522415543331278
+  },
+  {
+    "service": "H::Cetirizine Consultation",
+    "predicted_pattern": "SP::SP_11",
+    "confidence": 0.049718394584655975
+  },
+  {
+    "service": "H::Orlistat Consultation",
+    "predicted_pattern": "SP::SP_10",
+    "confidence": 0.05241264769567582
+  },
+  {
+    "service": "H::Alendronate Consultation",
+    "predicted_pattern": "SP::SP_20",
+    "confidence": 0.04905435187839181
+  },
+  {
+    "service": "H::Latanoprost Consultation",
+    "predicted_pattern": "SP::SP_9",
+    "confidence": 0.083479895970858
+  },
+  {
+    "service": "H::Ranibizumab Consultation",
+    "predicted_pattern": "SP::SP_17",
+    "confidence": 0.047721404516023455
+  },
+  {
+    "service": "H::Allopurinol Consultation",
+    "predicted_pattern": "SP::SP_0",
+    "confidence": 0.07510173317060342
+  },
+  {
+    "service": "H::Insulin Consultation",
+    "predicted_pattern": "SP::SP_4",
+    "confidence": 0.049240457304547465
+  },
+  {
+    "service": "H::Atorvastatin Consultation",
+    "predicted_pattern": "SP::SP_0",
+    "confidence": 0.08621304204801675
+  },
+  {
+    "service": "H::Metformin Management Program",
+    "predicted_pattern": "SP::SP_10",
+    "confidence": 0.06381923317285203
+  },
+  {
+    "service": "H::Lisinopril Management Program",
+    "predicted_pattern": "SP::SP_20",
+    "confidence": 0.056230043028354736
+  },
+  {
+    "service": "H::Albuterol Management Program",
+    "predicted_pattern": "SP::SP_15",
+    "confidence": 0.07017933352340419
+  },
+  {
+    "service": "H::Fluticasone Management Program",
+    "predicted_pattern": "SP::SP_2",
+    "confidence": 0.045372263090986735
+  },
+  {
+    "service": "H::Sumatriptan Management Program",
+    "predicted_pattern": "SP::SP_19",
+    "confidence": 0.05021720221001261
+  },
+  {
+    "service": "H::Hydrocortisone Management Program",
+    "predicted_pattern": "SP::SP_19",
+    "confidence": 0.04924069803666025
+  },
+  {
+    "service": "H::Methotrexate Management Program",
+    "predicted_pattern": "SP::SP_16",
+    "confidence": 0.05569642269598431
+  },
+  {
+    "service": "H::Ibuprofen Management Program",
+    "predicted_pattern": "SP::SP_24",
+    "confidence": 0.05001776969181517
+  },
+  {
+    "service": "H::Omeprazole Management Program",
+    "predicted_pattern": "SP::SP_0",
+    "confidence": 0.07244602355357314
+  },
+  {
+    "service": "H::Loperamide Management Program",
+    "predicted_pattern": "SP::SP_14",
+    "confidence": 0.07974504155494308
+  },
+  {
+    "service": "H::Furosemide Management Program",
+    "predicted_pattern": "SP::SP_2",
+    "confidence": 0.047020681571011025
+  },
+  {
+    "service": "H::Levothyroxine Management Program",
+    "predicted_pattern": "SP::SP_2",
+    "confidence": 0.06870504937629911
+  },
+  {
+    "service": "H::Methimazole Management Program",
+    "predicted_pattern": "SP::SP_14",
+    "confidence": 0.06674318921629123
+  },
+  {
+    "service": "H::Sertraline Management Program",
+    "predicted_pattern": "SP::SP_11",
+    "confidence": 0.04600403104902343
+  },
+  {
+    "service": "H::Escitalopram Management Program",
+    "predicted_pattern": "SP::SP_6",
+    "confidence": 0.05787263046035066
+  },
+  {
+    "service": "H::Zolpidem Management Program",
+    "predicted_pattern": "SP::SP_2",
+    "confidence": 0.07524295583193898
+  },
+  {
+    "service": "H::Amiodarone Management Program",
+    "predicted_pattern": "SP::SP_16",
+    "confidence": 0.05255001897670673
+  },
+  {
+    "service": "H::Bisoprolol Management Program",
+    "predicted_pattern": "SP::SP_14",
+    "confidence": 0.060399038351567215
+  },
+  {
+    "service": "H::FerrousSulfate Management Program",
+    "predicted_pattern": "SP::SP_15",
+    "confidence": 0.046737535694838454
+  },
+  {
+    "service": "H::Nitrofurantoin Management Program",
+    "predicted_pattern": "SP::SP_6",
+    "confidence": 0.0728952796039835
+  },
+  {
+    "service": "H::Amoxicillin Management Program",
+    "predicted_pattern": "SP::SP_24",
+    "confidence": 0.07443663087261733
+  },
+  {
+    "service": "H::Azithromycin Management Program",
+    "predicted_pattern": "SP::SP_15",
+    "confidence": 0.05703784075879045
+  },
+  {
+    "service": "H::Cetirizine Management Program",
+    "predicted_pattern": "SP::SP_2",
+    "confidence": 0.0662965557781235
+  },
+  {
+    "service": "H::Orlistat Management Program",
+    "predicted_pattern": "SP::SP_0",
+    "confidence": 0.06701807895787054
+  },
+  {
+    "service": "H::Alendronate Management Program",
+    "predicted_pattern": "SP::SP_21",
+    "confidence": 0.06233543735212768
+  },
+  {
+    "service": "H::Latanoprost Management Program",
+    "predicted_pattern": "SP::SP_5",
+    "confidence": 0.06996012404940152
+  },
+  {
+    "service": "H::Ranibizumab Management Program",
+    "predicted_pattern": "SP::SP_16",
+    "confidence": 0.04994512241978709
+  },
+  {
+    "service": "H::Allopurinol Management Program",
+    "predicted_pattern": "SP::SP_5",
+    "confidence": 0.05866641588447779
+  },
+  {
+    "service": "H::Insulin Management Program",
+    "predicted_pattern": "SP::SP_5",
+    "confidence": 0.0632870979409205
+  },
+  {
+    "service": "H::Atorvastatin Management Program",
+    "predicted_pattern": "SP::SP_5",
+    "confidence": 0.06140409606397049
+  },
+  {
+    "service": "H::Metformin Rehabilitation Service",
+    "predicted_pattern": "SP::SP_10",
+    "confidence": 0.0554874094507441
+  },
+  {
+    "service": "H::Lisinopril Rehabilitation Service",
+    "predicted_pattern": "SP::SP_3",
+    "confidence": 0.048517298023090315
+  },
+  {
+    "service": "H::Albuterol Rehabilitation Service",
+    "predicted_pattern": "SP::SP_6",
+    "confidence": 0.06060302244066571
+  },
+  {
+    "service": "H::Fluticasone Rehabilitation Service",
+    "predicted_pattern": "SP::SP_17",
+    "confidence": 0.04910833645460741
+  },
+  {
+    "service": "H::Sumatriptan Rehabilitation Service",
+    "predicted_pattern": "SP::SP_0",
+    "confidence": 0.08484631254295694
+  },
+  {
+    "service": "H::Hydrocortisone Rehabilitation Service",
+    "predicted_pattern": "SP::SP_20",
+    "confidence": 0.051449743303067924
+  },
+  {
+    "service": "H::Methotrexate Rehabilitation Service",
+    "predicted_pattern": "SP::SP_16",
+    "confidence": 0.06764252100523388
+  },
+  {
+    "service": "H::Ibuprofen Rehabilitation Service",
+    "predicted_pattern": "SP::SP_10",
+    "confidence": 0.04859006982699956
+  },
+  {
+    "service": "H::Omeprazole Rehabilitation Service",
+    "predicted_pattern": "SP::SP_1",
+    "confidence": 0.07866686893265867
+  },
+  {
+    "service": "H::Loperamide Rehabilitation Service",
+    "predicted_pattern": "SP::SP_20",
+    "confidence": 0.04935071337050508
+  },
+  {
+    "service": "H::Furosemide Rehabilitation Service",
+    "predicted_pattern": "SP::SP_17",
+    "confidence": 0.04843178671349741
+  },
+  {
+    "service": "H::Levothyroxine Rehabilitation Service",
+    "predicted_pattern": "SP::SP_12",
+    "confidence": 0.07746798909984644
+  },
+  {
+    "service": "H::Methimazole Rehabilitation Service",
+    "predicted_pattern": "SP::SP_0",
+    "confidence": 0.06226884161390688
+  },
+  {
+    "service": "H::Sertraline Rehabilitation Service",
+    "predicted_pattern": "SP::SP_21",
+    "confidence": 0.08356568367635583
+  },
+  {
+    "service": "H::Escitalopram Rehabilitation Service",
+    "predicted_pattern": "SP::SP_16",
+    "confidence": 0.06873571312794968
+  },
+  {
+    "service": "H::Zolpidem Rehabilitation Service",
+    "predicted_pattern": "SP::SP_2",
+    "confidence": 0.08120156200981056
+  },
+  {
+    "service": "H::Amiodarone Rehabilitation Service",
+    "predicted_pattern": "SP::SP_16",
+    "confidence": 0.05978600896465058
+  },
+  {
+    "service": "H::Bisoprolol Rehabilitation Service",
+    "predicted_pattern": "SP::SP_0",
+    "confidence": 0.07791835340329027
+  },
+  {
+    "service": "H::FerrousSulfate Rehabilitation Service",
+    "predicted_pattern": "SP::SP_2",
+    "confidence": 0.0832338322870744
+  },
+  {
+    "service": "H::Nitrofurantoin Rehabilitation Service",
+    "predicted_pattern": "SP::SP_12",
+    "confidence": 0.04934068265521726
+  },
+  {
+    "service": "H::Amoxicillin Rehabilitation Service",
+    "predicted_pattern": "SP::SP_16",
+    "confidence": 0.07234148507734457
+  },
+  {
+    "service": "H::Azithromycin Rehabilitation Service",
+    "predicted_pattern": "SP::SP_15",
+    "confidence": 0.0739190933451963
+  },
+  {
+    "service": "H::Cetirizine Rehabilitation Service",
+    "predicted_pattern": "SP::SP_16",
+    "confidence": 0.07066664403870915
+  },
+  {
+    "service": "H::Orlistat Rehabilitation Service",
+    "predicted_pattern": "SP::SP_0",
+    "confidence": 0.06819770548464575
+  },
+  {
+    "service": "H::Alendronate Rehabilitation Service",
+    "predicted_pattern": "SP::SP_0",
+    "confidence": 0.051499941319660576
+  },
+  {
+    "service": "H::Latanoprost Rehabilitation Service",
+    "predicted_pattern": "SP::SP_21",
+    "confidence": 0.05069190211669369
+  },
+  {
+    "service": "H::Ranibizumab Rehabilitation Service",
+    "predicted_pattern": "SP::SP_24",
+    "confidence": 0.06371857391586487
+  },
+  {
+    "service": "H::Allopurinol Rehabilitation Service",
+    "predicted_pattern": "SP::SP_8",
+    "confidence": 0.04893278032453717
+  },
+  {
+    "service": "H::Insulin Rehabilitation Service",
+    "predicted_pattern": "SP::SP_8",
+    "confidence": 0.048796627905586074
+  },
+  {
+    "service": "H::Atorvastatin Rehabilitation Service",
+    "predicted_pattern": "SP::SP_13",
+    "confidence": 0.04708747498125368
+  },
+  {
+    "service": "H::Metformin Screening Service",
+    "predicted_pattern": "SP::SP_11",
+    "confidence": 0.0649536752969453
+  },
+  {
+    "service": "H::Lisinopril Screening Service",
+    "predicted_pattern": "SP::SP_5",
+    "confidence": 0.06392611588747886
+  },
+  {
+    "service": "H::Albuterol Screening Service",
+    "predicted_pattern": "SP::SP_0",
+    "confidence": 0.09169840144416423
+  },
+  {
+    "service": "H::Fluticasone Screening Service",
+    "predicted_pattern": "SP::SP_0",
+    "confidence": 0.04722479497073781
+  },
+  {
+    "service": "H::Sumatriptan Screening Service",
+    "predicted_pattern": "SP::SP_23",
+    "confidence": 0.05163064797076571
+  },
+  {
+    "service": "H::Hydrocortisone Screening Service",
+    "predicted_pattern": "SP::SP_12",
+    "confidence": 0.06694787579819993
+  },
+  {
+    "service": "H::Methotrexate Screening Service",
+    "predicted_pattern": "SP::SP_21",
+    "confidence": 0.05159602721163518
+  },
+  {
+    "service": "H::Ibuprofen Screening Service",
+    "predicted_pattern": "SP::SP_11",
+    "confidence": 0.04959291136228644
+  },
+  {
+    "service": "H::Omeprazole Screening Service",
+    "predicted_pattern": "SP::SP_20",
+    "confidence": 0.051627784196346775
+  },
+  {
+    "service": "H::Loperamide Screening Service",
+    "predicted_pattern": "SP::SP_0",
+    "confidence": 0.060048284025317124
+  },
+  {
+    "service": "H::Furosemide Screening Service",
+    "predicted_pattern": "SP::SP_8",
+    "confidence": 0.049707037859526175
+  },
+  {
+    "service": "H::Levothyroxine Screening Service",
+    "predicted_pattern": "SP::SP_2",
+    "confidence": 0.06623137754541383
+  },
+  {
+    "service": "H::Methimazole Screening Service",
+    "predicted_pattern": "SP::SP_10",
+    "confidence": 0.04791730231176712
+  },
+  {
+    "service": "H::Sertraline Screening Service",
+    "predicted_pattern": "SP::SP_6",
+    "confidence": 0.05091157767604457
+  },
+  {
+    "service": "H::Escitalopram Screening Service",
+    "predicted_pattern": "SP::SP_2",
+    "confidence": 0.049924470141600175
+  },
+  {
+    "service": "H::Zolpidem Screening Service",
+    "predicted_pattern": "SP::SP_2",
+    "confidence": 0.06530838106328693
+  },
+  {
+    "service": "H::Amiodarone Screening Service",
+    "predicted_pattern": "SP::SP_11",
+    "confidence": 0.0465324665424224
+  },
+  {
+    "service": "H::Bisoprolol Screening Service",
+    "predicted_pattern": "SP::SP_21",
+    "confidence": 0.05759484397261575
+  },
+  {
+    "service": "H::FerrousSulfate Screening Service",
+    "predicted_pattern": "SP::SP_10",
+    "confidence": 0.07668559845363164
+  },
+  {
+    "service": "H::Nitrofurantoin Screening Service",
+    "predicted_pattern": "SP::SP_6",
+    "confidence": 0.0751312561229332
+  },
+  {
+    "service": "H::Amoxicillin Screening Service",
+    "predicted_pattern": "SP::SP_2",
+    "confidence": 0.048308945649322
+  },
+  {
+    "service": "H::Azithromycin Screening Service",
+    "predicted_pattern": "SP::SP_5",
+    "confidence": 0.07530200007265037
+  },
+  {
+    "service": "H::Cetirizine Screening Service",
+    "predicted_pattern": "SP::SP_18",
+    "confidence": 0.04677560037212799
+  },
+  {
+    "service": "H::Orlistat Screening Service",
+    "predicted_pattern": "SP::SP_0",
+    "confidence": 0.06437820277348166
+  },
+  {
+    "service": "H::Alendronate Screening Service",
+    "predicted_pattern": "SP::SP_2",
+    "confidence": 0.06660978671906752
+  },
+  {
+    "service": "H::Latanoprost Screening Service",
+    "predicted_pattern": "SP::SP_2",
+    "confidence": 0.06693580464479296
+  },
+  {
+    "service": "H::Ranibizumab Screening Service",
+    "predicted_pattern": "SP::SP_16",
+    "confidence": 0.09519014985455654
+  },
+  {
+    "service": "H::Allopurinol Screening Service",
+    "predicted_pattern": "SP::SP_21",
+    "confidence": 0.052333497787658174
+  },
+  {
+    "service": "H::Insulin Screening Service",
+    "predicted_pattern": "SP::SP_5",
+    "confidence": 0.06070519356202071
+  },
+  {
+    "service": "H::Atorvastatin Screening Service",
+    "predicted_pattern": "SP::SP_2",
+    "confidence": 0.08478495821637533
+  },
+  {
+    "service": "H::Metformin Counseling Service",
+    "predicted_pattern": "SP::SP_3",
+    "confidence": 0.0482996379043389
+  },
+  {
+    "service": "H::Lisinopril Counseling Service",
+    "predicted_pattern": "SP::SP_18",
+    "confidence": 0.046565580310465794
+  },
+  {
+    "service": "H::Albuterol Counseling Service",
+    "predicted_pattern": "SP::SP_16",
+    "confidence": 0.08068652996905934
+  },
+  {
+    "service": "H::Fluticasone Counseling Service",
+    "predicted_pattern": "SP::SP_9",
+    "confidence": 0.048743040425103114
+  },
+  {
+    "service": "H::Sumatriptan Counseling Service",
+    "predicted_pattern": "SP::SP_16",
+    "confidence": 0.0637746391859096
+  },
+  {
+    "service": "H::Hydrocortisone Counseling Service",
+    "predicted_pattern": "SP::SP_22",
+    "confidence": 0.05063927722145413
+  },
+  {
+    "service": "H::Methotrexate Counseling Service",
+    "predicted_pattern": "SP::SP_4",
+    "confidence": 0.04598573182766272
+  },
+  {
+    "service": "H::Ibuprofen Counseling Service",
+    "predicted_pattern": "SP::SP_15",
+    "confidence": 0.04808183772846275
+  },
+  {
+    "service": "H::Omeprazole Counseling Service",
+    "predicted_pattern": "SP::SP_21",
+    "confidence": 0.050280734680629977
+  },
+  {
+    "service": "H::Loperamide Counseling Service",
+    "predicted_pattern": "SP::SP_24",
+    "confidence": 0.05378173793014465
+  },
+  {
+    "service": "H::Furosemide Counseling Service",
+    "predicted_pattern": "SP::SP_2",
+    "confidence": 0.04772723306744386
+  },
+  {
+    "service": "H::Levothyroxine Counseling Service",
+    "predicted_pattern": "SP::SP_18",
+    "confidence": 0.052643552928469714
+  },
+  {
+    "service": "H::Methimazole Counseling Service",
+    "predicted_pattern": "SP::SP_16",
+    "confidence": 0.04861429746402102
+  },
+  {
+    "service": "H::Sertraline Counseling Service",
+    "predicted_pattern": "SP::SP_21",
+    "confidence": 0.06298636568110402
+  },
+  {
+    "service": "H::Escitalopram Counseling Service",
+    "predicted_pattern": "SP::SP_12",
+    "confidence": 0.05876090844410585
+  },
+  {
+    "service": "H::Zolpidem Counseling Service",
+    "predicted_pattern": "SP::SP_2",
+    "confidence": 0.07062865253910733
+  },
+  {
+    "service": "H::Amiodarone Counseling Service",
+    "predicted_pattern": "SP::SP_6",
+    "confidence": 0.04712797473766737
+  },
+  {
+    "service": "H::Bisoprolol Counseling Service",
+    "predicted_pattern": "SP::SP_5",
+    "confidence": 0.059916831193518774
+  },
+  {
+    "service": "H::FerrousSulfate Counseling Service",
+    "predicted_pattern": "SP::SP_20",
+    "confidence": 0.05457411976131783
+  },
+  {
+    "service": "H::Nitrofurantoin Counseling Service",
+    "predicted_pattern": "SP::SP_5",
+    "confidence": 0.053654885162184536
+  },
+  {
+    "service": "H::Amoxicillin Counseling Service",
+    "predicted_pattern": "SP::SP_13",
+    "confidence": 0.05207379690450689
+  },
+  {
+    "service": "H::Azithromycin Counseling Service",
+    "predicted_pattern": "SP::SP_23",
+    "confidence": 0.06747456740606428
+  },
+  {
+    "service": "H::Cetirizine Counseling Service",
+    "predicted_pattern": "SP::SP_16",
+    "confidence": 0.07037559698198896
+  },
+  {
+    "service": "H::Orlistat Counseling Service",
+    "predicted_pattern": "SP::SP_23",
+    "confidence": 0.06213729755950244
+  },
+  {
+    "service": "H::Alendronate Counseling Service",
+    "predicted_pattern": "SP::SP_20",
+    "confidence": 0.05311175948102649
+  },
+  {
+    "service": "H::Latanoprost Counseling Service",
+    "predicted_pattern": "SP::SP_6",
+    "confidence": 0.05926707028273543
+  },
+  {
+    "service": "H::Ranibizumab Counseling Service",
+    "predicted_pattern": "SP::SP_14",
+    "confidence": 0.04709567373521466
+  },
+  {
+    "service": "H::Allopurinol Counseling Service",
+    "predicted_pattern": "SP::SP_12",
+    "confidence": 0.05331912223598564
+  },
+  {
+    "service": "H::Insulin Counseling Service",
+    "predicted_pattern": "SP::SP_0",
+    "confidence": 0.0723677638968375
+  },
+  {
+    "service": "H::Atorvastatin Counseling Service",
+    "predicted_pattern": "SP::SP_12",
+    "confidence": 0.06372382293727172
+  },
+  {
+    "service": "H::Metformin Therapy",
+    "predicted_pattern": "SP::SP_0",
+    "confidence": 0.06772419855209554
+  },
+  {
+    "service": "H::Lisinopril Therapy",
+    "predicted_pattern": "SP::SP_4",
+    "confidence": 0.04796708645187309
+  },
+  {
+    "service": "H::Albuterol Therapy",
+    "predicted_pattern": "SP::SP_0",
+    "confidence": 0.07226946236139195
+  },
+  {
+    "service": "H::Fluticasone Therapy",
+    "predicted_pattern": "SP::SP_22",
+    "confidence": 0.05245485548282813
+  },
+  {
+    "service": "H::Sumatriptan Therapy",
+    "predicted_pattern": "SP::SP_16",
+    "confidence": 0.048893751933618536
+  },
+  {
+    "service": "H::Hydrocortisone Therapy",
+    "predicted_pattern": "SP::SP_19",
+    "confidence": 0.04894694281353399
+  },
+  {
+    "service": "H::Methotrexate Therapy",
+    "predicted_pattern": "SP::SP_5",
+    "confidence": 0.05368646255941503
+  },
+  {
+    "service": "H::Ibuprofen Therapy",
+    "predicted_pattern": "SP::SP_17",
+    "confidence": 0.06111155846841841
+  },
+  {
+    "service": "H::Omeprazole Therapy",
+    "predicted_pattern": "SP::SP_8",
+    "confidence": 0.04698118023680648
+  },
+  {
+    "service": "H::Loperamide Therapy",
+    "predicted_pattern": "SP::SP_19",
+    "confidence": 0.04694885084060221
+  },
+  {
+    "service": "H::Furosemide Therapy",
+    "predicted_pattern": "SP::SP_2",
+    "confidence": 0.060371557081668824
+  },
+  {
+    "service": "H::Levothyroxine Therapy",
+    "predicted_pattern": "SP::SP_0",
+    "confidence": 0.06898627267696185
+  },
+  {
+    "service": "H::Methimazole Therapy",
+    "predicted_pattern": "SP::SP_10",
+    "confidence": 0.05100923321364465
+  },
+  {
+    "service": "H::Sertraline Therapy",
+    "predicted_pattern": "SP::SP_11",
+    "confidence": 0.048354253447544654
+  },
+  {
+    "service": "H::Escitalopram Therapy",
+    "predicted_pattern": "SP::SP_6",
+    "confidence": 0.06838403762837852
+  },
+  {
+    "service": "H::Zolpidem Therapy",
+    "predicted_pattern": "SP::SP_2",
+    "confidence": 0.08366752747458515
+  },
+  {
+    "service": "H::Amiodarone Therapy",
+    "predicted_pattern": "SP::SP_6",
+    "confidence": 0.06381580125531792
+  },
+  {
+    "service": "H::Bisoprolol Therapy",
+    "predicted_pattern": "SP::SP_17",
+    "confidence": 0.04741242306571028
+  },
+  {
+    "service": "H::FerrousSulfate Therapy",
+    "predicted_pattern": "SP::SP_19",
+    "confidence": 0.04769623061217278
+  },
+  {
+    "service": "H::Nitrofurantoin Therapy",
+    "predicted_pattern": "SP::SP_7",
+    "confidence": 0.04766766402712259
+  },
+  {
+    "service": "H::Amoxicillin Therapy",
+    "predicted_pattern": "SP::SP_5",
+    "confidence": 0.0634088414899163
+  },
+  {
+    "service": "H::Azithromycin Therapy",
+    "predicted_pattern": "SP::SP_0",
+    "confidence": 0.07062496247824732
+  },
+  {
+    "service": "H::Cetirizine Therapy",
+    "predicted_pattern": "SP::SP_2",
+    "confidence": 0.064661552596743
+  },
+  {
+    "service": "H::Orlistat Therapy",
+    "predicted_pattern": "SP::SP_2",
+    "confidence": 0.06269940218073754
+  },
+  {
+    "service": "H::Alendronate Therapy",
+    "predicted_pattern": "SP::SP_23",
+    "confidence": 0.05843326692870657
+  },
+  {
+    "service": "H::Latanoprost Therapy",
+    "predicted_pattern": "SP::SP_16",
+    "confidence": 0.0812313270934339
+  },
+  {
+    "service": "H::Ranibizumab Therapy",
+    "predicted_pattern": "SP::SP_5",
+    "confidence": 0.08357782636066656
+  },
+  {
+    "service": "H::Allopurinol Therapy",
+    "predicted_pattern": "SP::SP_16",
+    "confidence": 0.07134610513637578
+  },
+  {
+    "service": "H::Insulin Therapy",
+    "predicted_pattern": "SP::SP_6",
+    "confidence": 0.0497237314168415
+  },
+  {
+    "service": "H::Atorvastatin Therapy",
+    "predicted_pattern": "SP::SP_0",
+    "confidence": 0.06614457597986637
+  }
+]
