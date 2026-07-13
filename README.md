@@ -190,8 +190,8 @@ Full table:
 |---|---|
 | N_s (symptoms) | 260 |
 | N_h (healthcare services / drugs) | 240 |
-| N_rp (requirement patterns) | 8 |
-| N_sp (service patterns) | 4 |
+| N_rp (requirement patterns) | 18 |
+| N_sp (service patterns) | 14 |
 | N_o (IoHT devices in use) | 40 |
 | N_diseases | 220 |
 | N_patients | 300 |
