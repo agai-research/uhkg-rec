@@ -71,18 +71,16 @@ UHKG-Rec/
 │   ├── exp_topk_variants.py          # Study 3: recommendation accuracy vs top-K (variants)
 │   ├── exp_topk_baselines.py         # Study 4: recommendation accuracy vs top-K (baselines)
 │   ├── exp_ablation.py               # Study 5: ablation study (3 variants)
-│   └── results/                      # all JSON results + PNG figures land here
 ├── Test/
 │   ├── first_test.py               # dedicated smoke test (run this first!)
 │   └── sample_query.json           # example query file
 ├── Notebooks/                      # Colab-ready .ipynb notebooks
-│   ├── all_experiments_figures.ipynb   # all 5 studies: description + code + figure
-│   ├── run_all_methods.ipynb
-│   ├── data_report.ipynb
-│   ├── kgat.ipynb
-│   └── cage.ipynb
-└── docs/
-    └── dataset_summary.docx        # dataset + all 5 studies' figures/tables
+    ├── all_experiments_figures.ipynb   # all 5 studies: description + code + figure
+    ├── run_all_methods.ipynb
+    ├── data_report.ipynb
+    ├── kgat.ipynb
+    └── cage.ipynb
+
 ```
 
 ---
