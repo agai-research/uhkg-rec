@@ -22,29 +22,6 @@ This repository implements the full UHKG-Rec pipeline described in the paper:
 7. Two baselines (**KGAT**, **CAGE**) and two ablated variants (**HKG-Rec**,
    **UHKG-Rec_NM**) for comparison.
 
-### A note on the dataset
-
-PrimeKG's servers are not reachable from the environment this prototype was built in, so
-the dataset is **generated** rather than downloaded: `Data/generate_dataset.py` produces
-a dataset that follows PrimeKG's schema and scale (diseases, symptoms, drugs abstracted
-as healthcare services, side effects, IoHT devices), using real, human-recognizable
-medical vocabulary, plus a source-agreement-style confidence score for every fact
-(Eq. B.1/B.2). If you have PrimeKG access, you can replace
-`Data/generate_dataset.py`'s vocabulary pools with an actual PrimeKG export and keep the
-rest of the pipeline unchanged - the confidence-scoring, HKG-building, and embedding code
-does not depend on how the raw facts were obtained.
-
-### A note on scale and result quality
-
-The dataset is deliberately kept modest (a few hundred entities, ~3000 facts, 25
-requirement/service patterns) so the **entire pipeline runs in minutes** on a laptop or a
-free Colab instance, and training uses a small number of epochs for the same reason. The
-numbers produced by `Experiments/*.py` are therefore illustrative of a **working,
-honest pipeline**, not polished, paper-grade results - some (theta, classifier) cells are
-skipped when too few labeled examples survive threshold filtering, and this is reported
-in the logs rather than hidden. Scale up `config.py`'s dataset-size and epoch parameters
-if you have more compute time available.
-
 ---
 
 ## 2. Repository layout
