@@ -1,6 +1,6 @@
 # UHKG-Rec
 
-Prototype implementation of **UHKG-Rec: Enhancing Service Recommendation in Smart Healthcare Networks via Pattern-driven Probabilistic Representation Learning**.
+Prototype implementation of the research paper **UHKG-Rec: Enhancing Service Recommendation in Smart Healthcare Networks via Pattern-driven Probabilistic Representation Learning**.
 
 Authors: **Mouhamed Gaith Ayadi, Haithem Mezni, Shiyam Alalmaei, Hela Elmannai**
 
