@@ -1,6 +1,6 @@
 # UHKG-Rec
 
-Prototype implementation of **UHKG-Rec**: Enhancing Service Recommendation in Smart Healthcare Networks via Pattern-driven Probabilistic Representation Learning.
+Prototype implementation of **UHKG-Rec: Enhancing Service Recommendation in Smart Healthcare Networks via Pattern-driven Probabilistic Representation Learning**.
 
 Authors: **Mouhamed Gaith Ayadi, Haithem Mezni, Shiyam Alalmaei, Hela Elmannai**
 
@@ -15,9 +15,9 @@ This repository implements the full UHKG-Rec pipeline described in the paper:
 2. **Pattern mining** of requirement patterns (RP) and service patterns (SP), and the
    requirement-service correlation matrix.
 3. **Confidence-weighted, meta-path-guided probabilistic embedding** (a tailored
-   metapath2vec variant with diagonal-Gaussian node embeddings, Algorithm 1).
+   metapath2vec variant with diagonal-Gaussian node embeddings).
 4. **Pattern-driven classification** of services into service patterns.
-5. **Bilateral pattern matching and safety-filtered candidate extraction** (Algorithm 2).
+5. **Bilateral pattern matching and safety-filtered candidate extraction**.
 6. **Scoring and Top-k ranking** of recommended treatment plans.
 7. Two baselines (**KGAT**, **CAGE**) and two ablated variants (**HKG-Rec**,
    **UHKG-Rec_NM**) for comparison.
@@ -34,17 +34,17 @@ UHKG-Rec/
 ├── config.py                    # every hyperparameter, in one place
 ├── Data/
 │   ├── generate_dataset.py       # dataset generation (Section 1 above)
-│   ├── service_meta.py           # recovery-time / cost metadata (Eq. B.10)
+│   ├── service_meta.py           # recovery-time / cost metadata
 │   ├── lookups.py                 # conflict / device lookup dictionaries
 │   ├── raw/                       # entities.json, facts.json
 │   ├── generated/                 # conflicts, interactions, embeddings, ...
-│   ├── dataset_stats.json         # N_s, N_h, N_rp, N_sp, ... (see Section 5)
+│   ├── dataset_stats.json         # N_s, N_h, N_rp, N_sp, ... 
 │   ├── base_hkg.json               # base HKG (P/S/H/O + Have/Require)
 │   ├── uhkg_full.json              # full UHKG (+ RP/SP + Cause/Treatment/Match)
 │   └── uhkg_theta_{0.6,0.7,0.8}.json   # threshold-filtered UHKG views
 ├── HKG/
 │   ├── build_graph.py             # base HKG construction (NetworkX)
-│   ├── confidence.py              # Eq. B.1/B.2 confidence scoring
+│   ├── confidence.py              # confidence scoring
 │   └── metapaths.py               # the 7 meta-path schemes + confidence-weighted walker
 ├── Embedding/
 │   ├── model.py                   # diagonal-Gaussian embedding + hand-written Adam
@@ -54,7 +54,7 @@ UHKG-Rec/
 │   ├── pattern_mining.py          # RP/SP mining + correlation matrix M^rh
 │   └── extraction.py              # Algorithm 2 (MatchPatterns + ExtractServices)
 ├── Scoring/
-│   └── scoring.py                 # Eq. B.10 scoring + ranking
+│   └── scoring.py                 # scoring + ranking
 ├── Baselines/
 │   ├── KGAT/kgat.py                # simplified attention-based KG recommendation
 │   └── CAGE/cage.py                # simplified context-aware GCN recommendation
@@ -94,7 +94,7 @@ pip install numpy networkx scikit-learn scipy matplotlib xgboost
 ```
 
 No GPU or deep-learning framework (PyTorch/TensorFlow) is required: the probabilistic
-embedding (Algorithm 1) is implemented directly in NumPy, including its own small Adam
+embedding is implemented directly in NumPy, including its own small Adam
 optimizer, so the prototype has no heavy external dependency.
 
 ---
@@ -147,7 +147,7 @@ Query format:
 `variant` is one of `"UHKG-Rec"`, `"UHKG-Rec_NM"`, `"HKG-Rec"`. `active_constraints` is a
 list of item names (services, allergies, etc.) the patient currently has active - any
 candidate service that conflicts with one of them, or requires an incompatible object, is
-excluded (Eq. B.11, the corrected AND safety filter).
+excluded.
 
 ### Step 5 - run a single variant or baseline directly
 
@@ -175,24 +175,15 @@ python Experiments/exp_topk_baselines.py    # Study 4: recommendation accuracy v
 python Experiments/exp_ablation.py          # Study 5: ablation study
 ```
 
-Every experiment script prints its progress, saves a JSON results file and a publication-ready
-PNG figure to `Experiments/results/`, and reports mean +/- std over multiple random seeds
-together with a paired significance test where a direct comparison is made. All figures use
-a colorblind-safe, professional palette (`Experiments/plot_style.py`) rather than matplotlib
-defaults, with explicit legends, axis labels, and error bars/bands on every bar and line series.
-`Notebooks/all_experiments_figures.ipynb` runs all five studies in one notebook, each preceded
-by a short description of the experiment and followed by its figure.
-
 ---
 
-## 5. Dataset statistics (for the manuscript placeholders)
+## 5. Dataset statistics
 
 The counts below were produced by the dataset-generation run included in this
-repository (`Data/dataset_stats.json`) and correspond to the manuscript's placeholder
-paragraph:
+repository (`Data/dataset_stats.json`).
 
 > "This extraction and mapping step results in **260** symptoms, **240** candidate
-> healthcare services (drugs), **8** requirement patterns, and **4** service patterns,
+> healthcare services (drugs), **18** requirement patterns, and **14** service patterns,
 > out of the **3000** disease/symptom/treatment samples."
 
 Full table:
@@ -215,27 +206,11 @@ Full table:
 
 Re-run `Data/generate_dataset.py` and `main-HKG.py` to regenerate this file if you change
 `config.py`'s dataset-size parameters. Note: `N_REQUIREMENT_PATTERNS`/`N_SERVICE_PATTERNS`
-were reduced from their original defaults (25/25) to 8/4 so that enough services fall into
+were reduced from their original defaults (25/25) to 18/14 so that enough services fall into
 each service pattern for multi-class classification to be meaningful at all three confidence
 thresholds - see `config.py` and `Matching/pattern_mining.py`.
 
 ---
-
-## 6. Figure quality notes
-
-Every figure produced under `Experiments/` was rebuilt to satisfy the following, verified
-programmatically (subplot count, bar/line count, legend entries) for each script:
-
-- A colorblind-safe, professional palette (`Experiments/plot_style.py`, Okabe-Ito derived)
-  instead of matplotlib's default color cycle.
-- An explicit legend on every figure (shared figure-level legend for multi-panel figures).
-- Complete axes: x/y labels and titles on every subplot.
-- Standard deviation shown on every bar (error bars) and every line (shaded band or error
-  bars) series, computed over `Experiments/eval_utils.py`'s / each script's seed loop.
-- The embedding-visualization figure (Study 1) colors points by biomedical category with a
-  proper category legend, using the disease-specialty mapping in `Data/categories.py`.
-- Distinct markers per method in the baselines figure (Study 4): cross / circle / triangle
-  / square, as specified for that comparison.
 
 ## 7. Reproducibility notes
 
